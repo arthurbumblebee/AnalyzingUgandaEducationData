@@ -1,0 +1,1501 @@
+Region,District,Sub-county,Ever married (10-17years),Never married (10-17years),Total,Ever had a Birth (12-17years),Never had a Birth (12-17years),Total
+string,string,string,numeric,numeric,numeric,numeric,numeric,numeric
+Western,Buhweju,Bihanga,101,1280,1381,64,903,967
+Western,Buhweju,Bitsya,89,1694,1783,66,1237,1303
+Western,Buhweju,Burere,181,1759,1940,140,1215,1355
+Western,Buhweju,Engaju,255,1617,1872,203,1097,1300
+Western,Buhweju,Karungu,66,1604,1670,82,1151,1233
+Western,Buhweju,Nsiika Town Council,9,316,325,13,236,249
+Western,Buhweju,Nyakishana,93,1734,1827,125,1176,1301
+Western,Buhweju,Rwengwe,111,1597,1708,122,1084,1206
+Western,Buhweju,Buhweju Total,905,11601,12506,815,8099,8914
+Western,Buliisa,Sub-county,133,1603,1736,97,1166,1263
+Western,Buliisa,Buliisa,129,1523,1652,119,1041,1160
+Western,Buliisa,Buliisa Town Council,30,593,623,41,419,460
+Western,Buliisa,Butiaba,397,1743,2140,412,1161,1573
+Western,Buliisa,Kigwera,79,1180,1259,105,808,913
+Western,Buliisa,Kihungya,84,1316,1400,75,957,1032
+Western,Buliisa,Ngwedo,166,1686,1852,133,1236,1369
+Western,Buliisa,Buliisa Total,1018,9644,10662,982,6788,7770
+Western,Bundibugyo,Bukonzo,90,1033,1123,76,768,844
+Western,Bundibugyo,Harugale,140,1184,1324,125,852,977
+Western,Bundibugyo,Nduguto,152,1062,1214,104,799,903
+Western,Bundibugyo,Ngamba,111,1050,1161,94,775,869
+Western,Bundibugyo,Ntotoro,166,925,1091,94,701,795
+Western,Bundibugyo,Sindila,103,1060,1163,76,783,859
+Western,Bundibugyo,Kasitu,314,1864,2178,287,1308,1595
+Western,Bundibugyo,Bubandi,359,1808,2167,233,1380,1613
+Western,Bundibugyo,Bubukwanga,414,1928,2342,322,1414,1736
+Western,Bundibugyo,Bundibugyo Town Council,192,1704,1896,199,1253,1452
+Western,Bundibugyo,Busaru,203,1331,1534,123,1010,1133
+Western,Bundibugyo,Kirumya,145,925,1070,90,712,802
+Western,Bundibugyo,Kisubba,230,1492,1722,157,1109,1266
+Western,Bundibugyo,Mirambi,251,1143,1394,176,840,1016
+Western,Bundibugyo,Nyahuka Town Council,257,1548,1805,179,1221,1400
+Western,Bundibugyo,Bundibugyo Total,3127,20057,23184,2335,14925,17260
+Western,Bushenyi,Central Divison,60,1573,1633,125,1149,1274
+Western,Bushenyi,Ishaka Divison,35,1304,1339,62,987,1049
+Western,Bushenyi,Nyakabirizi Division,21,823,844,82,572,654
+Western,Bushenyi,Bitooma,61,1386,1447,63,977,1040
+Western,Bushenyi,Bumbaire,83,1525,1608,115,1080,1195
+Western,Bushenyi,Ibaare,28,1273,1301,32,936,968
+Western,Bushenyi,Kakanju,110,2495,2605,155,1765,1920
+Western,Bushenyi,Kyabugimbi,80,2168,2248,70,1637,1707
+Western,Bushenyi,Kyamuhunga,219,3546,3765,177,2655,2832
+Western,Bushenyi,Kyeizooba,122,2674,2796,119,1985,2104
+Western,Bushenyi,Nyabubare,173,3792,3965,214,2753,2967
+Western,Bushenyi,Ruhumuro,72,1389,1461,79,982,1061
+Western,Bushenyi,Bushenyi Total,1064,23948,25012,1293,17478,18771
+Western,Hoima,Buhanika,111,1191,1302,98,857,955
+Western,Hoima,Buseruka,390,3204,3594,309,2298,2607
+Western,Hoima,Kigorobya,714,6005,6719,621,4219,4840
+Western,Hoima,Kigorobya Town Council,52,547,599,35,420,455
+Western,Hoima,Kitoba,388,3037,3425,432,2041,2473
+Western,Hoima,Kyabigambire,382,3462,3844,340,2464,2804
+Western,Hoima,Bugambe,292,2612,2904,233,1897,2130
+Western,Hoima,Buhimba,399,3607,4006,274,2627,2901
+Western,Hoima,Kabwoya,748,4952,5700,522,3528,4050
+Western,Hoima,Kiziranfumbi,305,3141,3446,186,2251,2437
+Western,Hoima,Kyangwali,872,7715,8587,906,5205,6111
+Western,Hoima,Bujumbura Division,116,2195,2311,120,1602,1722
+Western,Hoima,Busiisi Division,148,1663,1811,179,1182,1361
+Western,Hoima,Kahoora Divison,171,3204,3375,183,2482,2665
+Western,Hoima,Mparo Divison,183,2011,2194,173,1433,1606
+Western,Hoima,Hoima Total,5271,48546,53817,4611,34506,39117
+Western,Ibanda,Bisheshe,226,2355,2581,168,1731,1899
+Western,Ibanda,Ibanda Town Council,315,2731,3046,367,1970,2337
+Western,Ibanda,Igorora Town Council,23,602,625,55,402,457
+Western,Ibanda,Ishongororo,156,1412,1568,112,1044,1156
+Western,Ibanda,Ishongororo Town Council,123,2111,2234,98,1543,1641
+Western,Ibanda,Kashangura,132,1769,1901,83,1318,1401
+Western,Ibanda,Keihangara,46,1271,1317,30,949,979
+Western,Ibanda,Kicuzi,79,1571,1650,60,1146,1206
+Western,Ibanda,Kijongo,48,1176,1224,47,863,910
+Western,Ibanda,Kikyenkye,82,1563,1645,77,1131,1208
+Western,Ibanda,Nsasi,41,842,883,27,628,655
+Western,Ibanda,Nyabuhikye,76,1913,1989,106,1364,1470
+Western,Ibanda,Nyamarebe,70,2092,2162,70,1514,1584
+Western,Ibanda,Rukiri,105,2475,2580,151,1753,1904
+Western,Ibanda,Rushango Town Council,17,372,389,17,275,292
+Western,Ibanda,Ibanda Total,1539,24255,25794,1468,17631,19099
+Western,Isingiro,Endiinzi,195,2136,2331,198,1452,1650
+Western,Isingiro,Kashumba,120,2240,2360,121,1613,1734
+Western,Isingiro,Mbaare,168,3205,3373,126,2249,2375
+Western,Isingiro,Ngarama,191,3674,3865,183,2651,2834
+Western,Isingiro,Rugaaga,330,3014,3344,321,2080,2401
+Western,Isingiro,Rushasha,57,1157,1214,50,773,823
+Western,Isingiro,Nakivale Refugee Camp,527,5261,5788,726,3453,4179
+Western,Isingiro,Birere,152,1953,2105,153,1378,1531
+Western,Isingiro,Isingiro Town Council,132,2655,2787,113,1899,2012
+Western,Isingiro,Kaberebere Town Council,17,552,569,39,385,424
+Western,Isingiro,Kabingo,242,2039,2281,269,1395,1664
+Western,Isingiro,Kabuyanda,135,2099,2234,166,1439,1605
+Western,Isingiro,Kabuyanda Town Council,66,1601,1667,106,1112,1218
+Western,Isingiro,Kikagate,487,4957,5444,497,3392,3889
+Western,Isingiro,Masha,139,2427,2566,231,1643,1874
+Western,Isingiro,Nyakitunda,282,4263,4545,216,2969,3185
+Western,Isingiro,Nyamuyanja,96,1522,1618,72,1072,1144
+Western,Isingiro,Ruborogota,159,1636,1795,251,1066,1317
+Western,Isingiro,Oruchinga Refugee Camp,24,329,353,22,219,241
+Western,Isingiro,Isingiro Total,3519,46720,50239,3860,32240,36100
+Western,Kabale ,Central Division,71,1058,1129,57,832,889
+Western,Kabale ,Northern Division,63,988,1051,55,742,797
+Western,Kabale ,Southern Division,68,1449,1517,104,1041,1145
+Western,Kabale ,Buhara,125,2619,2744,132,1919,2051
+Western,Kabale ,Butanda,168,1773,1941,94,1325,1419
+Western,Kabale ,Kaharo,75,2023,2098,77,1480,1557
+Western,Kabale ,Kamuganguzi,79,2176,2255,97,1540,1637
+Western,Kabale ,Katuna Town Council,66,934,1000,73,670,743
+Western,Kabale ,Kitumba,47,1963,2010,73,1393,1466
+Western,Kabale ,Kyanamira,54,2089,2143,46,1546,1592
+Western,Kabale ,Maziba,67,2154,2221,47,1572,1619
+Western,Kabale ,Rubaya,104,2883,2987,99,2103,2202
+Western,Kabale ,Bubaare,234,3549,3783,204,2638,2842
+Western,Kabale ,Bufundi,173,2712,2885,135,1955,2090
+Western,Kabale ,Hamurwa,223,2723,2946,140,2047,2187
+Western,Kabale ,Hamurwa Town Council,33,520,553,18,401,419
+Western,Kabale ,Ikumba,172,3091,3263,134,2269,2403
+Western,Kabale ,Muko,211,4721,4932,142,3437,3579
+Western,Kabale ,Nyamweru,92,1944,2036,55,1454,1509
+Western,Kabale ,Ruhija,64,885,949,44,633,677
+Western,Kabale ,Bukinda,35,966,1001,62,680,742
+Western,Kabale ,Kamwezi,88,2621,2709,72,1937,2009
+Western,Kabale ,Kashambya,129,2682,2811,102,1937,2039
+Western,Kabale ,Muhanga Town Council,44,1004,1048,43,722,765
+Western,Kabale ,Rwamucucu,91,2718,2809,83,2003,2086
+Western,Kabale ,Kabale Total,2576,52245,54821,2188,38276,40464
+Western,Kabarole,Eastern Division,134,1618,1752,109,1285,1394
+Western,Kabarole,Southern Division,68,1394,1462,82,1071,1153
+Western,Kabarole,Western Division,74,1588,1662,98,1200,1298
+Western,Kabarole,Buheesi,241,3348,3589,212,2343,2555
+Western,Kabarole,Kabonero,202,1793,1995,229,1209,1438
+Western,Kabarole,Katebwa,205,2016,2221,198,1400,1598
+Western,Kabarole,Kibiito,132,1757,1889,89,1298,1387
+Western,Kabarole,Kibiito Town Council,51,1298,1349,92,903,995
+Western,Kabarole,Kisomoro,167,2276,2443,163,1632,1795
+Western,Kabarole,Rubona Town Council,35,533,568,26,386,412
+Western,Kabarole,Rwimi,105,1621,1726,69,1178,1247
+Western,Kabarole,Rwimi Town Council,93,1497,1590,104,1085,1189
+Western,Kabarole,Bukuuku,47,1096,1143,65,758,823
+Western,Kabarole,Busoro,145,2351,2496,162,1737,1899
+Western,Kabarole,Hakibaale,276,3242,3518,242,2299,2541
+Western,Kabarole,Karago Town Council,25,959,984,45,693,738
+Western,Kabarole,Karambi,159,2462,2621,235,1716,1951
+Western,Kabarole,Karangura,144,1139,1283,102,808,910
+Western,Kabarole,Kasenda,217,2336,2553,178,1671,1849
+Western,Kabarole,Kicwamba,314,3260,3574,253,2400,2653
+Western,Kabarole,Kiko Town Council,59,1049,1108,62,755,817
+Western,Kabarole,Kijura Town Council,72,857,929,57,600,657
+Western,Kabarole,Mugusu,150,2293,2443,182,1599,1781
+Western,Kabarole,Ruteete,128,1573,1701,136,1110,1246
+Western,Kabarole,Kabarole Total,3243,43356,46599,3190,31136,34326
+Western,Kamwenge,Biguli,7461,3811,11272,6930,2583,9513
+Western,Kamwenge,Busiriba,6238,3381,9619,5124,2778,7902
+Western,Kamwenge,Bwizi,6161,3191,9352,5240,2650,7890
+Western,Kamwenge,Kabambiro,3487,1778,5265,2817,1531,4348
+Western,Kamwenge,Kahunge,7820,4393,12213,6513,3641,10154
+Western,Kamwenge,Kamwenge,5023,2495,7518,4016,2068,6084
+Western,Kamwenge,Kamwenge Town Council,4113,2383,6496,3532,1990,5522
+Western,Kamwenge,Bihanga,3139,1709,4848,2651,1363,4014
+Western,Kamwenge,Nkoma,6883,3460,10343,5977,2714,8691
+Western,Kamwenge,Rwamwanja Refugee Camp,8100,3578,11678,7258,2768,10026
+Western,Kamwenge,Buhanda,5211,2982,8193,4326,2407,6733
+Western,Kamwenge,Kanara,2998,1568,4566,2480,1251,3731
+Western,Kamwenge,Kicheche,5756,3719,9475,4737,2868,7605
+Western,Kamwenge,Mahyoro,6537,3146,9683,5532,2623,8155
+Western,Kamwenge,Ntara,6358,3361,9719,5215,2759,7974
+Western,Kamwenge,Nyabbani,4978,2766,7744,3921,2385,6306
+Western,Kamwenge,Kamwenge Total,90263,47721,137984,76269,38379,114648
+Western,Kanungu,Butogota Town Council,91,974,1065,84,711,795
+Western,Kanungu,Inyanga,154,2259,2413,148,1659,1807
+Western,Kanungu,Kambuga,21,630,651,24,476,500
+Western,Kanungu,Kambuga Town Council,169,1399,1568,69,1129,1198
+Western,Kanungu,Kanungu Town Council,80,1840,1920,45,1378,1423
+Western,Kanungu,Kanyantorogo,40,711,751,31,519,550
+Western,Kanungu,Katete,144,2784,2928,116,2030,2146
+Western,Kanungu,Kayonza,101,1768,1869,97,1269,1366
+Western,Kanungu,Kihihi,56,2063,2119,67,1531,1598
+Western,Kanungu,Kihiihi Town Council,63,809,872,19,606,625
+Western,Kanungu,Kinaaba,154,1723,1877,129,1244,1373
+Western,Kanungu,Kirima,77,1166,1243,41,835,876
+Western,Kanungu,Mpungu,15,897,912,19,633,652
+Western,Kanungu,Nyakinoni,84,1823,1907,113,1222,1335
+Western,Kanungu,Nyamirama,38,727,765,18,549,567
+Western,Kanungu,Rugyeyo,112,2188,2300,102,1588,1690
+Western,Kanungu,Rutenga,156,1278,1434,87,1001,1088
+Western,Kanungu,Kanungu Total,1555,25039,26594,1209,18380,19589
+Western,Kasese,Bulembia Division,86,1312,1398,104,922,1026
+Western,Kasese,Central Division,201,3084,3285,290,2168,2458
+Western,Kasese,Nyamwamba Division,414,5021,5435,423,3742,4165
+Western,Kasese,Bwera,112,1851,1963,97,1362,1459
+Western,Kasese,Ihandiro,99,1185,1284,111,842,953
+Western,Kasese,Kisinga,209,3976,4185,201,2919,3120
+Western,Kasese,Kitholhu,138,1695,1833,200,1148,1348
+Western,Kasese,Kyarumba,310,4124,4434,247,2990,3237
+Western,Kasese,Kyondo,158,2287,2445,141,1581,1722
+Western,Kasese,Mahango,111,1985,2096,107,1406,1513
+Western,Kasese,Mpondwe-Lhubiriha,371,5304,5675,389,3881,4270
+Western,Kasese,Munkunyu,278,3265,3543,345,2275,2620
+Western,Kasese,Nyakatonzi,11,538,549,8,402,410
+Western,Kasese,Nyakiyumbu,237,2983,3220,189,2203,2392
+Western,Kasese,Bugoye,223,3461,3684,276,2334,2610
+Western,Kasese,Buhuhira,167,1705,1872,168,1174,1342
+Western,Kasese,Bwesumbu,190,1901,2091,152,1333,1485
+Western,Kasese,Hima Town Council,82,1135,1217,147,748,895
+Western,Kasese,Karusandara,57,1035,1092,39,749,788
+Western,Kasese,Katwe Kabatoro Town Council,30,475,505,31,343,374
+Western,Kasese,Kilembe,74,1311,1385,106,879,985
+Western,Kasese,Kitswamba,238,2716,2954,202,1965,2167
+Western,Kasese,Kyabarungira,191,1520,1711,250,1036,1286
+Western,Kasese,Lake Katwe,222,1567,1789,137,1171,1308
+Western,Kasese,Maliba,335,4476,4811,319,3206,3525
+Western,Kasese,Maliba,335,4476,4811,319,3206,3525
+Western,Kasese,Maliba,335,4476,4811,319,3206,3525
+Western,Kasese,Muhokya,139,1724,1863,136,1222,1358
+Western,Kasese,Rukoki,86,1383,1469,55,980,1035
+Western,Kasese,Kasese Total,5028,66477,71505,5069,47540,52609
+Western,Kibaale,Birembo,153,2431,2584,108,1752,1860
+Western,Kibaale,Bwanswa,124,1543,1667,104,1141,1245
+Western,Kibaale,Kakindo,432,4876,5308,328,3439,3767
+Western,Kibaale,Kakumiro  Town Council,48,963,1011,51,685,736
+Western,Kibaale,Kasambya,200,2739,2939,164,1907,2071
+Western,Kibaale,Kisiita,343,5261,5604,185,3837,4022
+Western,Kibaale,Mpasaana,114,2097,2211,70,1505,1575
+Western,Kibaale,Nalweyo,305,2704,3009,278,1851,2129
+Western,Kibaale,Nkooko,274,3114,3388,162,2257,2419
+Western,Kibaale,Burora,87,1231,1318,84,852,936
+Western,Kibaale,Bwikara,264,3927,4191,179,2881,3060
+Western,Kibaale,Kabamba,165,1446,1611,120,1061,1181
+Western,Kibaale,Kagadi,89,1242,1331,60,922,982
+Western,Kibaale,Kagadi  Town Council,143,2262,2405,144,1656,1800
+Western,Kibaale,Kiryanga,172,2058,2230,138,1451,1589
+Western,Kibaale,Kyakabadiima,58,962,1020,25,706,731
+Western,Kibaale,Kyanaisoke,102,1491,1593,87,1106,1193
+Western,Kibaale,Kyaterekera,168,2343,2511,150,1647,1797
+Western,Kibaale,Kyenzige,113,1638,1751,91,1206,1297
+Western,Kibaale,Mabaale,218,2388,2606,160,1778,1938
+Western,Kibaale,Mpeefu,252,3654,3906,159,2647,2806
+Western,Kibaale,Muhorro,112,1366,1478,60,1039,1099
+Western,Kibaale,Muhorro  Town Council,164,2212,2376,146,1630,1776
+Western,Kibaale,Ndaiga,103,585,688,72,456,528
+Western,Kibaale,Paacwa,130,1565,1695,90,1155,1245
+Western,Kibaale,Rugashari,87,1552,1639,54,1118,1172
+Western,Kibaale,Ruteete,68,1098,1166,34,817,851
+Western,Kibaale,Bubango,142,1525,1667,92,1093,1185
+Western,Kibaale,Bwamiramira,166,1598,1764,116,1152,1268
+Western,Kibaale,Kibaale Town Council,50,612,662,32,457,489
+Western,Kibaale,Kyebando,137,1985,2122,97,1390,1487
+Western,Kibaale,Matale,144,1652,1796,110,1193,1303
+Western,Kibaale,Mugarama,98,1070,1168,54,786,840
+Western,Kibaale,Nyamarunda,208,2168,2376,140,1591,1731
+Western,Kibaale,Nyamarwa,154,1688,1842,102,1188,1290
+Western,Kibaale,Kibaale Total,5587,71046,76633,4046,51352,55398
+Western,Kiruhura,Buremba,147,2008,2155,149,1383,1532
+Western,Kiruhura,Burunga,170,2093,2263,310,1359,1669
+Western,Kiruhura,Engari,118,2426,2544,203,1649,1852
+Western,Kiruhura,Kanoni,85,1740,1825,155,1208,1363
+Western,Kiruhura,Kazo,165,2838,3003,284,1907,2191
+Western,Kiruhura,Kazo Town Council,46,1149,1195,118,784,902
+Western,Kiruhura,Nkungu,191,2413,2604,225,1676,1901
+Western,Kiruhura,Rwemikoma,136,2203,2339,326,1420,1746
+Western,Kiruhura,Kanyaryeru,18,731,749,67,480,547
+Western,Kiruhura,Kashongi,89,2524,2613,103,1818,1921
+Western,Kiruhura,Kenshunga,119,1902,2021,171,1324,1495
+Western,Kiruhura,Kikaatsi,116,1536,1652,146,1092,1238
+Western,Kiruhura,Kinoni,112,1860,1972,167,1273,1440
+Western,Kiruhura,Kiruhura Town Council,14,479,493,23,345,368
+Western,Kiruhura,Kitura,118,1525,1643,161,1047,1208
+Western,Kiruhura,Nyakashashara,60,1272,1332,199,781,980
+Western,Kiruhura,Sanga,18,699,717,54,471,525
+Western,Kiruhura,Sanga Town Council,40,766,806,42,580,622
+Western,Kiruhura,Kiruhura Total,1762,30164,31926,2903,20597,23500
+Western,Kiryandongo,Bweyale Town Council,392,3190,3582,276,2334,2610
+Western,Kiryandongo,Kigumba,466,4122,4588,263,3033,3296
+Western,Kiryandongo,Kigumba Town Council,120,1990,2110,169,1442,1611
+Western,Kiryandongo,Kiryandongo,1023,7295,8318,887,5137,6024
+Western,Kiryandongo,Kiryandongo Refugee Camp,96,1520,1616,82,1101,1183
+Western,Kiryandongo,Kiryandongo Town Council,35,584,619,43,442,485
+Western,Kiryandongo,Masindi Port,48,868,916,48,631,679
+Western,Kiryandongo,Mutunda,800,5481,6281,502,4064,4566
+Western,Kiryandongo,Kiryandongo Total,2980,25050,28030,2270,18184,20454
+Western,Kisoro,Central Division,18,403,421,33,287,320
+Western,Kisoro,Northern Division,21,563,584,22,423,445
+Western,Kisoro,Southern Division,13,599,612,45,412,457
+Western,Kisoro,Bukimbiri,134,1554,1688,122,1114,1236
+Western,Kisoro,Busanza,50,1947,1997,92,1391,1483
+Western,Kisoro,Chahi,116,2110,2226,116,1594,1710
+Western,Kisoro,Kanaba,59,1833,1892,33,1414,1447
+Western,Kisoro,Kirundo,123,1992,2115,119,1456,1575
+Western,Kisoro,Muramba,183,3992,4175,125,3006,3131
+Western,Kisoro,Murora,122,1935,2057,80,1453,1533
+Western,Kisoro,Nyabwishenya,85,1669,1754,84,1214,1298
+Western,Kisoro,Nyakabande,101,2736,2837,112,2054,2166
+Western,Kisoro,Nyakinama,79,2176,2255,113,1555,1668
+Western,Kisoro,Nyarubuye,76,1970,2046,68,1458,1526
+Western,Kisoro,Nyarusiza,139,3243,3382,125,2364,2489
+Western,Kisoro,Nyundo,113,1350,1463,121,986,1107
+Western,Kisoro,Kisoro Total,1432,30072,31504,1410,22181,23591
+Western,Kyegegwa,Hapuuyo,469,4059,4528,365,2899,3264
+Western,Kyegegwa,Kabweza Kyegegwa,183,2301,2484,174,1635,1809
+Western,Kyegegwa,Kakabara,442,4115,4557,344,2944,3288
+Western,Kyegegwa,Kasule,135,2140,2275,103,1540,1643
+Western,Kyegegwa,Kyegegwa Town Council,121,1695,1816,109,1212,1321
+Western,Kyegegwa,Mpara,277,3369,3646,230,2405,2635
+Western,Kyegegwa,Ruyonza,219,2324,2543,214,1612,1826
+Western,Kyegegwa,Rwentuha,240,3342,3582,175,2399,2574
+Western,Kyegegwa,Kyaka  Ii  Refugee Camp,88,1674,1762,119,1156,1275
+Western,Kyegegwa,Kyegegwa Total,2174,25019,27193,1833,17802,19635
+Western,Kyenjojo,Bufunjo,314,4493,4807,215,3230,3445
+Western,Kyenjojo,Bugaaki,183,2829,3012,258,1982,2240
+Western,Kyenjojo,Butiiti,91,1823,1914,173,1217,1390
+Western,Kyenjojo,Butunduzi,68,1174,1242,43,864,907
+Western,Kyenjojo,Butunduzi Town Council,77,1305,1382,52,928,980
+Western,Kyenjojo,Katooke,243,3350,3593,271,2369,2640
+Western,Kyenjojo,Katooke Town Council,105,1329,1434,88,970,1058
+Western,Kyenjojo,Kigaraale,184,2078,2262,170,1494,1664
+Western,Kyenjojo,Kihuura,218,2644,2862,230,1817,2047
+Western,Kyenjojo,Kisojo,147,2056,2203,153,1437,1590
+Western,Kyenjojo,Kyarusozi,447,5006,5453,362,3512,3874
+Western,Kyenjojo,Kyarusozi  Town Council,94,1028,1122,61,758,819
+Western,Kyenjojo,Kyenjojo Town Council,149,2078,2227,178,1496,1674
+Western,Kyenjojo,Nyabuharwa,159,2340,2499,182,1637,1819
+Western,Kyenjojo,Nyankwanzi,198,2571,2769,140,1853,1993
+Western,Kyenjojo,Nyantungo,173,2274,2447,127,1667,1794
+Western,Kyenjojo,Kyenjojo Total,2850,38378,41228,2703,27231,29934
+Western,Masindi,Kigulya Division,106,1175,1281,84,857,941
+Western,Masindi,Karujubu Division,189,2125,2314,171,1526,1697
+Western,Masindi,Nyangahya Division,68,1153,1221,54,853,907
+Western,Masindi,Central Division,185,3834,4019,215,2936,3151
+Western,Masindi,Budongo,598,4513,5111,518,3106,3624
+Western,Masindi,Bwijanga,480,4626,5106,444,3294,3738
+Western,Masindi,Kimengo,70,1085,1155,66,779,845
+Western,Masindi,Miirya,232,1691,1923,202,1218,1420
+Western,Masindi,Pakanyi,626,5126,5752,392,3776,4168
+Western,Masindi,Masindi Total,2554,25328,27882,2146,18345,20491
+Western,Mbarara,Kakoba Division,221,3850,4071,263,2928,50743
+Western,Mbarara,Kamukuzi Division,110,2763,2873,180,2111,32512
+Western,Mbarara,Nyamitanga Division,90,1787,1877,92,1388,22231
+Western,Mbarara,Biharwe Division,162,2012,2174,105,1505,21735
+Western,Mbarara,Kakiika Division,95,1791,1886,118,1304,20708
+Western,Mbarara,Nyakayojo Division,125,3575,3700,152,2545,37385
+Western,Mbarara,Bubaare,110,2287,2397,99,1695,22294
+Western,Mbarara,Bukiro,56,1455,1511,40,1044,14509
+Western,Mbarara,Kagongi,80,2234,2314,132,1606,20568
+Western,Mbarara,Kashare,77,2356,2433,71,1689,22595
+Western,Mbarara,Rubaya,51,1897,1948,51,1365,18228
+Western,Mbarara,Rubindi,89,2450,2539,109,1750,23854
+Western,Mbarara,Rwanyamahembe,109,2605,2714,120,1896,26583
+Western,Mbarara,Bugamba,291,3382,3673,325,2338,34643
+Western,Mbarara,Mwizi,266,3441,3707,173,2476,34571
+Western,Mbarara,Ndeija,230,2976,3206,166,2150,31096
+Western,Mbarara,Rugando,109,2609,2718,92,1944,26493
+Western,Mbarara,Mbarara Total,2271,43470,45741,2288,31734,460748
+Western,Mitooma,Bitereko,170,2883,3053,184,2057,2241
+Western,Mitooma,Kabira,160,1131,1291,67,894,961
+Western,Mitooma,Kanyabwanga,127,1723,1850,113,1225,1338
+Western,Mitooma,Kashenshero,96,1176,1272,57,891,948
+Western,Mitooma,Kashenshero Town Council,39,510,549,28,400,428
+Western,Mitooma,Katenga,102,1984,2086,151,1403,1554
+Western,Mitooma,Kiyanga,127,1793,1920,159,1178,1337
+Western,Mitooma,Mayanga,59,1159,1218,150,729,879
+Western,Mitooma,Mitooma,105,2011,2116,116,1412,1528
+Western,Mitooma,Mitooma Town Council,12,631,643,21,453,474
+Western,Mitooma,Mutara,69,2601,2670,69,1918,1987
+Western,Mitooma,Rurehe,54,1282,1336,68,904,972
+Western,Mitooma,Mitooma Total,1120,18884,20004,1183,13464,14647
+Western,Ntoroko,Butungama,55,1013,1068,75,720,795
+Western,Ntoroko,Bweramule,43,613,656,43,449,492
+Western,Ntoroko,Kanara,46,632,678,51,464,515
+Western,Ntoroko,Kanara Town Council,64,522,586,46,386,432
+Western,Ntoroko,Karugutu,42,565,607,30,410,440
+Western,Ntoroko,Karugutu Town Council,93,994,1087,95,739,834
+Western,Ntoroko,Kibuuku Town Council,5,216,221,9,164,173
+Western,Ntoroko,Nombe,82,761,843,56,555,611
+Western,Ntoroko,Rwebisengo,23,503,526,14,419,433
+Western,Ntoroko,Rwebisengo Town Council,19,322,341,14,268,282
+Western,Ntoroko,Ntoroko Total,472,6141,6613,433,4574,5007
+Western,Ntungamo,Central Division,20,622,642,62,427,489
+Western,Ntungamo,Eastern Division,100,437,537,83,333,416
+Western,Ntungamo,Western Division,16,377,393,21,275,296
+Western,Ntungamo,Bwongyera,197,3983,4180,119,3003,3122
+Western,Ntungamo,Ihunga,121,2797,2918,130,2027,2157
+Western,Ntungamo,Kibatsi,113,2011,2124,115,1422,1537
+Western,Ntungamo,Nyabihoko,57,2380,2437,57,1705,1762
+Western,Ntungamo,Rwashamaire Town Council,13,768,781,17,569,586
+Western,Ntungamo,Itojo,42,2330,2372,38,1718,1756
+Western,Ntungamo,Kitwe Town Council,53,1788,1841,64,1262,1326
+Western,Ntungamo,Ntungamo,140,3106,3246,115,2259,2374
+Western,Ntungamo,Nyakyera,371,3762,4133,447,2502,2949
+Western,Ntungamo,Ruhaama,199,4200,4399,150,3022,3172
+Western,Ntungamo,Rukoni East,173,2296,2469,167,1617,1784
+Western,Ntungamo,Rukoni West,104,1727,1831,74,1256,1330
+Western,Ntungamo,Rweikiniro,196,3707,3903,161,2661,2822
+Western,Ntungamo,Kayonza,120,2688,2808,101,1968,2069
+Western,Ntungamo,Ngoma,104,2595,2699,102,1873,1975
+Western,Ntungamo,Rubaare,237,2469,2706,183,1803,1986
+Western,Ntungamo,Rubaare Town Council,82,1170,1252,76,818,894
+Western,Ntungamo,Rugarama,158,3147,3305,101,2276,2377
+Western,Ntungamo,Ntungamo Total,2616,48360,50976,2383,34796,37179
+Western,Rubirizi,Katanda,82,1970,2052,125,1359,1484
+Western,Rubirizi,Katerera,37,1098,1135,46,765,811
+Western,Rubirizi,Katerera Town Council,28,903,931,44,636,680
+Western,Rubirizi,Katunguru,25,213,238,16,140,156
+Western,Rubirizi,Kichwamba,95,1810,1905,79,1339,1418
+Western,Rubirizi,Kirugu,44,1144,1188,33,834,867
+Western,Rubirizi,Kyabakara,54,1270,1324,59,886,945
+Western,Rubirizi,Magambo,37,1224,1261,30,880,910
+Western,Rubirizi,Rubirizirz Town Council,18,845,863,37,607,644
+Western,Rubirizi,Rutoto,55,1543,1598,48,1106,1154
+Western,Rubirizi,Ryeru,52,1502,1554,46,1078,1124
+Western,Rubirizi,Rubirizi Total,527,13522,14049,563,9630,10193
+Western,Rukungiri,Buyanja,260,3655,3915,205,2680,2885
+Western,Rukungiri,Kebisoni,87,2832,2919,105,2088,2193
+Western,Rukungiri,Nyakishenyi,170,3616,3786,176,2554,2730
+Western,Rukungiri,Nyarushanje,241,4454,4695,248,3147,3395
+Western,Rukungiri,Bugangari,109,3136,3245,128,2214,2342
+Western,Rukungiri,Buhunga,91,2482,2573,148,1789,1937
+Western,Rukungiri,Bwambara,158,2631,2789,102,1893,1995
+Western,Rukungiri,Nyakagyeme,127,3338,3465,217,2351,2568
+Western,Rukungiri,Ruhinda,128,2774,2902,175,2009,2184
+Western,Rukungiri,Eastern Divison,30,1202,1232,52,899,951
+Western,Rukungiri,Southern Division,38,831,869,39,615,654
+Western,Rukungiri,Western Division,62,1343,1405,158,927,1085
+Western,Rukungiri,Rukungiri Total,1501,32294,33795,1753,23166,24919
+Western,Sheema,Kashozi,42,1420,1462,42,1023,1065
+Western,Sheema,Bugongi Town Council,27,1205,1232,50,865,915
+Western,Sheema,Kabwohe Itendero T. C.,58,1717,1775,84,1244,1328
+Western,Sheema,Kagango,72,2037,2109,89,1499,1588
+Western,Sheema,Kasaana,47,1801,1848,68,1309,1377
+Western,Sheema,Kigarama,72,2186,2258,97,1556,1653
+Western,Sheema,Rugarama,66,1068,1134,86,701,787
+Western,Sheema,Kitagata,97,1891,1988,137,1320,1457
+Western,Sheema,Kyangyenyi,150,3201,3351,189,2303,2492
+Western,Sheema,Masheruka,73,1609,1682,52,1190,1242
+Western,Sheema,Shuuku,41,1232,1273,57,865,922
+Western,Sheema,Sheema Town Council,47,1660,1707,77,1193,1270
+Western,Sheema,Sheema Total,792,21027,21819,1028,15068,16096
+Northern,Abim,Abim,49,1487,1536,38,1121,1159
+Northern,Abim,Abim Town Council,104,1963,2067,54,1476,1530
+Northern,Abim,Alerek,37,1958,1995,49,1362,1411
+Northern,Abim,Lotukei,98,2692,2790,126,1900,2026
+Northern,Abim,Morulem,148,2386,2534,109,1735,1844
+Northern,Abim,Nyakwae,82,1501,1583,62,1051,1113
+Northern,Abim,Abim Total,518,11987,12505,438,8645,9083
+Northern,Adjumani,Adjumani Town Council,133,4114,4247,195,3100,3295
+Northern,Adjumani,Adropi,62,1229,1291,93,843,936
+Northern,Adjumani,Arinyapi,66,1234,1300,98,855,953
+Northern,Adjumani,Ciforo,63,1441,1504,37,1079,1116
+Northern,Adjumani,Dzaipi,197,4231,4428,236,2943,3179
+Northern,Adjumani,Itirikwa,97,1683,1780,63,1245,1308
+Northern,Adjumani,Ofua,75,1575,1650,59,1167,1226
+Northern,Adjumani,Ukusijoni,68,1161,1229,57,827,884
+Northern,Adjumani,Pacara,64,1927,1991,88,1409,1497
+Northern,Adjumani,Pakele,307,5001,5308,365,3463,3828
+Northern,Adjumani,Adjumani Total,1132,23596,24728,1291,16931,18222
+Northern,Agago,Adilang,112,2123,2235,77,1544,1621
+Northern,Agago,Agago Town Council,25,591,616,28,414,442
+Northern,Agago,Arum,147,1134,1281,102,838,940
+Northern,Agago,Kalongo Town Council,67,1150,1217,53,844,897
+Northern,Agago,Kotomol,87,1388,1475,54,1039,1093
+Northern,Agago,Lamiyo,55,876,931,35,628,663
+Northern,Agago,Lapono,119,2131,2250,87,1544,1631
+Northern,Agago,Lira Palwo,119,1662,1781,125,1197,1322
+Northern,Agago,Lokole,105,1607,1712,91,1159,1250
+Northern,Agago,Omiya Pacwa,64,1140,1204,53,831,884
+Northern,Agago,Omot,138,1258,1396,122,922,1044
+Northern,Agago,Paimol,106,2110,2216,105,1536,1641
+Northern,Agago,Parabongo,105,1128,1233,114,823,937
+Northern,Agago,Patongo,116,1068,1184,38,850,888
+Northern,Agago,Patongo Town Council,70,1154,1224,62,844,906
+Northern,Agago,Wol,226,2226,2452,201,1641,1842
+Northern,Agago,Agago Total,1661,22746,24407,1347,16654,18001
+Northern,Alebtong,Abako,141,2565,2706,134,1873,2007
+Northern,Alebtong,Abia,239,2276,2515,135,1734,1869
+Northern,Alebtong,Akura,144,2559,2703,90,1898,1988
+Northern,Alebtong,Alebtong Town Council,34,701,735,20,523,543
+Northern,Alebtong,Aloi,188,3355,3543,137,2473,2610
+Northern,Alebtong,Amugu,147,3011,3158,109,2186,2295
+Northern,Alebtong,Apala,119,2156,2275,78,1582,1660
+Northern,Alebtong,Awei,152,3284,3436,109,2428,2537
+Northern,Alebtong,Omoro,466,4280,4746,285,3190,3475
+Northern,Alebtong,Alebtong Total,1630,24187,25817,1097,17887,18984
+Northern,Amolatar,Agikdak,77,1115,1192,121,758,879
+Northern,Amolatar,Agwingiri,134,1519,1653,108,1109,1217
+Northern,Amolatar,Akwon,69,811,880,93,546,639
+Northern,Amolatar,Amolatar Town Council,106,1194,1300,69,880,949
+Northern,Amolatar,Aputi,176,1585,1761,92,1206,1298
+Northern,Amolatar,Arwotcek,87,1801,1888,108,1231,1339
+Northern,Amolatar,Awelo,100,1205,1305,53,886,939
+Northern,Amolatar,Etam,196,1491,1687,79,1173,1252
+Northern,Amolatar,Muntu,63,1440,1503,73,1005,1078
+Northern,Amolatar,Namasale,198,1786,1984,97,1317,1414
+Northern,Amolatar,Namasale Town Council,79,809,888,72,561,633
+Northern,Amolatar,Amolatar Total,1285,14756,16041,965,10672,11637
+Northern,Amudat,Amudat,240,2654,2894,160,1854,2014
+Northern,Amudat,Amudat Town Council,91,1215,1306,92,832,924
+Northern,Amudat,Karita,339,2744,3083,226,1908,2134
+Northern,Amudat,Loroo,143,3571,3714,210,2281,2491
+Northern,Amudat,Amudat Total,813,10184,10997,688,6875,7563
+Northern,Amuru,Amuru,421,4030,4451,417,2807,3224
+Northern,Amuru,Amuru Town council,78,925,1003,78,638,716
+Northern,Amuru,Attiak,325,3223,3548,320,2259,2579
+Northern,Amuru,Lamogi,575,4804,5379,757,3112,3869
+Northern,Amuru,Pabo,653,5391,6044,509,3817,4326
+Northern,Amuru,Amuru Total,2052,18373,20425,2081,12633,14714
+Northern,Apac,Abongomola,220,3867,4087,152,2870,3022
+Northern,Apac,Aduku,86,3262,3348,177,2270,2447
+Northern,Apac,Aduku Town Council,25,876,901,21,653,674
+Northern,Apac,Chawente,246,3511,3757,178,2512,2690
+Northern,Apac,Inomo,266,3146,3412,187,2349,2536
+Northern,Apac,Nambieso,269,5102,5371,212,3650,3862
+Northern,Apac,Akokoro,450,3781,4231,224,2867,3091
+Northern,Apac,Apac,306,5960,6266,321,4270,4591
+Northern,Apac,Apac Town Council,82,1544,1626,50,1188,1238
+Northern,Apac,Chegere,343,3755,4098,301,2707,3008
+Northern,Apac,Ibuje,196,4278,4474,180,3082,3262
+Northern,Apac,Apac Total,2489,39082,41571,2003,28418,30421
+Northern,Arua,Arua Hill Division,52,2198,2250,1662,120,1782
+Northern,Arua,River Oli Division,281,5397,5678,4143,316,4459
+Northern,Arua,Adumi,243,2992,3235,2212,206,2418
+Northern,Arua,Aroi,225,2544,2769,1877,232,2109
+Northern,Arua,Ayivuni,203,2274,2477,1744,107,1851
+Northern,Arua,Dadamu,215,5043,5258,3674,273,3947
+Northern,Arua,Manibe,124,3037,3161,2229,109,2338
+Northern,Arua,Oluko,219,4418,4637,3293,234,3527
+Northern,Arua,Pajulu,427,7050,7477,5161,470,5631
+Northern,Arua,Anyiribu,88,789,877,630,36,666
+Northern,Arua,Ewanga,44,774,818,556,25,581
+Northern,Arua,Offaka,307,1665,1972,1200,284,1484
+Northern,Arua,Ogoko,297,1495,1792,970,364,1334
+Northern,Arua,Okollo,137,1708,1845,1300,88,1388
+Northern,Arua,Pawor,91,866,957,638,59,697
+Northern,Arua,Rhino Camp,163,2180,2343,1517,220,1737
+Northern,Arua,Rigbo,157,2474,2631,1703,193,1896
+Northern,Arua,Uleppi,71,853,924,634,51,685
+Northern,Arua,Aii-Vu,218,3929,4147,2882,152,3034
+Northern,Arua,Bileafe,99,2132,2231,1540,100,1640
+Northern,Arua,Katrini,184,3308,3492,2418,148,2566
+Northern,Arua,Omugo,316,4141,4457,2289,1004,3293
+Northern,Arua,Odupi,298,3616,3914,2758,153,2911
+Northern,Arua,Uriama,124,2287,2411,1738,99,1837
+Northern,Arua,Ajia,364,2426,2790,1770,302,2072
+Northern,Arua,Arivu,186,2311,2497,1440,396,1836
+Northern,Arua,Logiri,354,3479,3833,2560,253,2813
+Northern,Arua,Vurra,585,4417,5002,3100,641,3741
+Northern,Arua,Arua Total,6072,79803,85875,57638,6635,64273
+Northern,Dokolo,Adeknino,84,1808,1892,118,1248,1366
+Northern,Dokolo,Adok,106,1951,2057,73,1450,1523
+Northern,Dokolo,Agwata,102,2394,2496,55,1772,1827
+Northern,Dokolo,Amwoma,73,1649,1722,56,1179,1235
+Northern,Dokolo,Batta,124,2041,2165,89,1522,1611
+Northern,Dokolo,Dokolo,91,1719,1810,91,1264,1355
+Northern,Dokolo,Dokolo Town Council,135,2168,2303,118,1571,1689
+Northern,Dokolo,Kangai,69,1914,1983,54,1359,1413
+Northern,Dokolo,Kwera,65,1518,1583,63,1065,1128
+Northern,Dokolo,Okwalongwen,89,1532,1621,223,972,1195
+Northern,Dokolo,Okwongodul,57,1589,1646,84,1082,1166
+Northern,Dokolo,Dokolo Total,995,20283,21278,1024,14484,15508
+Northern,Gulu,Bar Dege Division,243,3865,565,2595,35456,38051
+Northern,Gulu,Laroo Division,132,2616,218,1907,25909,27816
+Northern,Gulu,Layibi Division,307,3627,409,2630,35664,38294
+Northern,Gulu,Pece Division,202,5108,196,3950,44373,48323
+Northern,Gulu,Awach,192,1967,104,1479,18874,20353
+Northern,Gulu,Bungatira,291,3438,323,2450,32824,35274
+Northern,Gulu,Paicho,218,2499,159,1827,24440,26267
+Northern,Gulu,Palaro,110,1385,75,987,13109,14096
+Northern,Gulu,Patiko,227,1861,176,1354,18352,19706
+Northern,Gulu,Unyama,227,1673,130,1286,16993,18279
+Northern,Gulu,Bobi,274,2858,152,2158,28912,31070
+Northern,Gulu,Koro,323,2752,224,2057,27365,29422
+Northern,Gulu,Lakwana,238,1945,120,1500,18761,20261
+Northern,Gulu,Lalogi,334,2999,371,2073,29628,31701
+Northern,Gulu,Odek,315,3072,249,2234,31322,33556
+Northern,Gulu,Ongako,217,2316,228,1653,23112,24765
+Northern,Gulu,Gulu Total,3850,43981,3699,32140,425094,457234
+Northern,Kaabong,Kaabong East,43,1173,1216,70,833,903
+Northern,Kaabong,Kaabong Town Council,56,1323,1379,47,1017,1064
+Northern,Kaabong,Kaabong West,32,1317,1349,40,981,1021
+Northern,Kaabong,Kalapata,64,3056,3120,73,2228,2301
+Northern,Kaabong,Kamion,25,625,650,23,456,479
+Northern,Kaabong,Kapedo,62,1418,1480,70,1028,1098
+Northern,Kaabong,Kathile,112,2050,2162,108,1469,1577
+Northern,Kaabong,Kawalakol,49,1404,1453,34,1026,1060
+Northern,Kaabong,Lobalangit,16,716,732,17,526,543
+Northern,Kaabong,Lodiko,37,767,804,35,575,610
+Northern,Kaabong,Lolelia,33,752,785,57,526,583
+Northern,Kaabong,Loyoro,28,386,414,31,275,306
+Northern,Kaabong,Napore Karenga,59,1496,1555,72,1065,1137
+Northern,Kaabong,Sidok,38,1286,1324,45,937,982
+Northern,Kaabong,Kaabong Total,654,17769,18423,722,12942,13664
+Northern,Kitgum,Central Division,211,2633,2844,190,1941,2131
+Northern,Kitgum,Pager Division,236,3516,3752,400,2435,2835
+Northern,Kitgum,Labongo Akwang,274,3645,3919,218,2721,2939
+Northern,Kitgum,Labongo Amida,51,860,911,38,650,688
+Northern,Kitgum,Labongo Layamo,12,287,299,22,194,216
+Northern,Kitgum,Lagoro,59,1182,1241,37,894,931
+Northern,Kitgum,Mucwini,167,2054,2221,129,1520,1649
+Northern,Kitgum,Namokora,112,1395,1507,170,918,1088
+Northern,Kitgum,Omiya Anyima,221,2112,2333,279,1459,1738
+Northern,Kitgum,Orom,276,2733,3009,172,2012,2184
+Northern,Kitgum,Kitgum Total,1619,20417,22036,1655,14744,16399
+Northern,Koboko,Northern Divison,90,2517,2607,151,1856,2007
+Northern,Koboko,Southern Division,20,291,311,14,218,232
+Northern,Koboko,Western Division,143,3548,3691,166,2684,2850
+Northern,Koboko,Dranya,59,1310,1369,81,938,1019
+Northern,Koboko,Kuluba,187,3565,3752,249,2490,2739
+Northern,Koboko,Lobule,185,3295,3480,128,2394,2522
+Northern,Koboko,Ludara,225,2815,3040,183,1994,2177
+Northern,Koboko,Midia,106,2199,2305,120,1561,1681
+Northern,Koboko,Koboko Total,1074,20961,22035,1124,15172,16296
+Northern,Kole,Aboke,615,4530,5145,394,3372,3766
+Northern,Kole,Akalo,275,3118,3393,273,2283,2556
+Northern,Kole,Alito,407,3865,4272,206,2916,3122
+Northern,Kole,Ayam,298,3782,4080,174,2838,3012
+Northern,Kole,Ayer,298,3782,4080,174,2838,3012
+Northern,Kole,Bala,488,4760,5248,301,3558,3859
+Northern,Kole,Kole Town Council,54,925,979,30,716,746
+Northern,Kole,Okwerodot,428,3275,3703,202,2492,2694
+Northern,Kole,Kole Total,2565,24255,26820,1580,18175,19755
+Northern,Kotido,Kacheri,184,3260,3444,192,2331,2523
+Northern,Kotido,Kotido,163,3546,3709,165,2543,2708
+Northern,Kotido,Kotido Town Council,91,1475,1566,108,1054,1162
+Northern,Kotido,Nakapelimoru,51,2096,2147,69,1501,1570
+Northern,Kotido,Panyangara,171,4415,4586,247,3173,3420
+Northern,Kotido,Rengen,181,4040,4221,235,2789,3024
+Northern,Kotido,Kotido Total,841,18832,19673,1016,13391,14407
+Northern,Lamwo,Agoro,100,1785,1885,118,1228,1346
+Northern,Lamwo,Lamwo T.C*,43,849,892,26,630,656
+Northern,Lamwo,Palabek Gem,63,1514,1577,41,1111,1152
+Northern,Lamwo,Madi  Opei,38,1241,1279,42,895,937
+Northern,Lamwo,Padibe West,125,1269,1394,122,926,1048
+Northern,Lamwo,Lokung,154,1543,1697,75,1153,1228
+Northern,Lamwo,Padibe East,61,936,997,54,678,732
+Northern,Lamwo,Palabek Kal,101,1478,1579,64,1102,1166
+Northern,Lamwo,Palabek Ogili,76,854,930,83,589,672
+Northern,Lamwo,Paloga,73,930,1003,101,638,739
+Northern,Lamwo,Padibe T.C,47,1134,1181,37,857,894
+Northern,Lamwo,Lamwo Total,881,13533,14414,763,9807,10570
+Northern,Lira,Adyel Division,122,3552,3674,132,2730,2862
+Northern,Lira,Central Division,80,2433,2513,110,1805,1915
+Northern,Lira,Ojwina Division,234,3966,4200,198,3056,3254
+Northern,Lira,Railway Division,32,568,600,14,453,467
+Northern,Lira,Adekokwok,347,4250,4597,241,3165,3406
+Northern,Lira,Agali,229,2551,2780,123,1911,2034
+Northern,Lira,Agweng,287,2927,3214,252,2081,2333
+Northern,Lira,Amach,264,3685,3949,229,2642,2871
+Northern,Lira,Aromo,328,3102,3430,213,2263,2476
+Northern,Lira,Barr,291,4802,5093,285,3499,3784
+Northern,Lira,Lira,209,3884,4093,195,2836,3031
+Northern,Lira,Ngetta,257,3433,3690,203,2505,2708
+Northern,Lira,Ogur,326,3644,3970,273,2634,2907
+Northern,Lira,Lira Total,3006,42797,45803,2468,31580,34048
+Northern,Maracha,Kijomoro,177,3100,3277,1248,118,1366
+Northern,Maracha,Maracha Town Council,52,975,1027,1450,73,1523
+Northern,Maracha,Nyadri,112,1887,1999,1772,55,1827
+Northern,Maracha,Oleba,198,3052,3250,1179,56,1235
+Northern,Maracha,Oluffe,149,2266,2415,1522,89,1611
+Northern,Maracha,Oluvu,162,2970,3132,1264,91,1355
+Northern,Maracha,Tara,90,1660,1750,1571,118,1689
+Northern,Maracha,Yivu,184,2463,2647,1359,54,1413
+Northern,Maracha,Maracha Total,1124,18373,19497,1065,63,1128
+Northern,Moyo,Aliba,79,1783,1862,84,1245,1329
+Northern,Moyo,Gimara,73,1318,1391,76,956,1032
+Northern,Moyo,Itula,50,1345,1395,39,994,1033
+Northern,Moyo,Difule,26,1294,1320,25,931,956
+Northern,Moyo,Laropi,34,983,1017,37,693,730
+Northern,Moyo,Lefori,38,1363,1401,35,971,1006
+Northern,Moyo,Metu,86,2945,3031,103,2155,2258
+Northern,Moyo,Moyo,113,2473,2586,94,1819,1913
+Northern,Moyo,Moyo Town Council,32,1235,1267,31,924,955
+Northern,Moyo,Moyo Total,531,14739,15270,524,10688,11212
+Northern,Nakapiripirit,Loregae,202,2137,2339,143,1531,1674
+Northern,Nakapiripirit,Moruita,223,1452,1675,115,1154,1269
+Northern,Nakapiripirit,Nakapiripirit Town Council,38,338,376,40,250,290
+Northern,Nakapiripirit,Namalu,109,2567,2676,114,1844,1958
+Northern,Nakapiripirit,Kakomongole,163,1650,1813,210,1147,1357
+Northern,Nakapiripirit,Lolachat,163,3612,3775,177,2596,2773
+Northern,Nakapiripirit,Lorengedwat,20,671,691,25,483,508
+Northern,Nakapiripirit,Nabilatuk,125,3191,3316,149,2276,2425
+Northern,Nakapiripirit,Nakapiripirit Total,1043,15618,16661,973,11281,12254
+Northern,Napak,Iriiri,256,4652,4908,564,2996,3560
+Northern,Napak,Lorengecora,69,875,944,77,584,661
+Northern,Napak,Lotome,27,1160,1187,44,839,883
+Northern,Napak,Matany,193,1994,2187,216,1400,1616
+Northern,Napak,Napak Town Council,37,399,436,66,244,310
+Northern,Napak,Ngoleriet,63,1824,1887,154,1196,1350
+Northern,Napak,Lokopo,237,1710,1947,315,1095,1410
+Northern,Napak,Lopeei,60,1180,1240,106,802,908
+Northern,Napak,Napak Total,942,13794,14736,1542,9156,10698
+Northern,Nebbi,Alwi,225,1590,1815,167,1144,1311
+Northern,Nebbi,Pakwach,139,1985,2124,142,1403,1545
+Northern,Nebbi,Pakwach Town Council,152,2480,2632,130,1822,1952
+Northern,Nebbi,Panyango,207,2736,2943,148,1970,2118
+Northern,Nebbi,Panyimur,453,3737,4190,396,2710,3106
+Northern,Nebbi,Wadelai,242,2120,2362,259,1466,1725
+Northern,Nebbi,Akworo,211,2522,2733,195,1822,2017
+Northern,Nebbi,Atego,60,1001,1061,60,708,768
+Northern,Nebbi,Erussi,223,3837,4060,201,2718,2919
+Northern,Nebbi,Kucwiny,353,2986,3339,269,2202,2471
+Northern,Nebbi,Ndhew,201,2103,2304,164,1535,1699
+Northern,Nebbi,Nebbi,187,2425,2612,152,1775,1927
+Northern,Nebbi,Nebbi Town Council,238,3848,4086,377,2694,3071
+Northern,Nebbi,Nyaravur,206,2028,2234,167,1464,1631
+Northern,Nebbi,Parombo,292,3578,3870,240,2602,2842
+Northern,Nebbi,Nebbi Total,3389,38976,42365,3067,28035,31102
+Northern,Nwoya,Alero,460,3824,4284,340,2729,1366
+Northern,Nwoya,Anaka Payira,116,1116,1232,69,833,1523
+Northern,Nwoya,Koch-Goma,373,3441,3814,206,2626,1827
+Northern,Nwoya,Anaka Town Council,114,1384,1498,72,1025,1235
+Northern,Nwoya,Purongo,272,2868,3140,172,2113,1611
+Northern,Nwoya,Nwoya Total,1335,12633,13968,859,9326,1355
+Northern,Otuke,Adwari,55,1046,1101,46,776,822
+Northern,Otuke,Alango,58,1315,1373,42,981,1023
+Northern,Otuke,Ogor,137,1468,1605,85,1125,1210
+Northern,Otuke,Ogwette,107,1431,1538,143,964,1107
+Northern,Otuke,Okwang,184,2151,2335,85,1672,1757
+Northern,Otuke,Olilim,64,1427,1491,37,1090,1127
+Northern,Otuke,Orum,73,1006,1079,40,775,815
+Northern,Otuke,Otuke Town Council,23,592,615,26,437,463
+Northern,Otuke,Otuke Total,701,10436,11137,504,7820,8324
+Northern,Oyam,Aber,391,3506,3897,285,2547,2832
+Northern,Oyam,Abok,166,1733,1899,104,1253,1357
+Northern,Oyam,Acaba,262,2919,3181,201,2135,2336
+Northern,Oyam,Aleka,520,2773,3293,282,2101,2383
+Northern,Oyam,Iceme,447,4660,5107,297,3418,3715
+Northern,Oyam,Kamdini,508,3988,4496,402,2888,3290
+Northern,Oyam,Loro,748,5488,6236,436,4217,4653
+Northern,Oyam,Minakulu,508,3909,4417,390,2766,3156
+Northern,Oyam,Myene,345,2685,3030,388,1842,2230
+Northern,Oyam,Ngai,324,2809,3133,227,2030,2257
+Northern,Oyam,Otwal,371,2492,2863,287,1820,2107
+Northern,Oyam,Oyam Town Council,121,1238,1359,63,970,1033
+Northern,Oyam,Oyam Total,4711,38200,42911,3362,27987,31349
+Northern,Pader,Acholibur,110,1482,1592,137,1027,1164
+Northern,Pader,Angagura,82,955,1037,75,679,754
+Northern,Pader,Atanga,163,1521,1684,226,1015,1241
+Northern,Pader,Awere,178,2090,2268,207,1520,1727
+Northern,Pader,Laguti,121,1360,1481,161,924,1085
+Northern,Pader,Lapul,153,1863,2016,335,1141,1476
+Northern,Pader,Latanya,88,1667,1755,104,1178,1282
+Northern,Pader,Ogom,98,791,889,102,536,638
+Northern,Pader,Pader,44,867,911,103,550,653
+Northern,Pader,Pader Town Council,159,1326,1485,142,984,1126
+Northern,Pader,Pajule,151,2487,2638,225,1722,1947
+Northern,Pader,Puranga,307,1809,2116,209,1318,1527
+Northern,Pader,Pader Total,1654,18218,19872,2026,12594,14620
+Northern,Yumbe,Apo,206,5149,5355,304,3446,3750
+Northern,Yumbe,Ariwa,97,2575,2672,100,1772,1872
+Northern,Yumbe,Drajini,101,3578,3679,161,2443,2604
+Northern,Yumbe,Kei,320,5386,5706,322,3612,3934
+Northern,Yumbe,Kerwa,206,4039,4245,220,2911,3131
+Northern,Yumbe,Kochi,267,5325,5592,396,3614,4010
+Northern,Yumbe,Kululu,162,4443,4605,194,3069,3263
+Northern,Yumbe,Kuru,268,5917,6185,396,4131,4527
+Northern,Yumbe,Lodonga,178,3970,4148,251,2815,3066
+Northern,Yumbe,Midigo,250,5605,5855,350,3863,4213
+Northern,Yumbe,Odravu,313,4793,5106,504,3276,3780
+Northern,Yumbe,Romogi,178,6855,7033,321,4619,4940
+Northern,Yumbe,Yumbe Town Council,141,4787,4928,327,3266,3593
+Northern,Yumbe,Yumbe Total,2687,62422,65109,3846,42837,46683
+Northern,Zombo,Abanga,165,1788,1953,161,1254,1415
+Northern,Zombo,Atyak,226,1961,2187,253,1332,1585
+Northern,Zombo,Jangokoro,323,2913,3236,212,2133,2345
+Northern,Zombo,Kango,319,3174,3493,267,2193,2460
+Northern,Zombo,Nyapea,230,1883,2113,182,1314,1496
+Northern,Zombo,Paidha,131,1440,1571,104,1003,1107
+Northern,Zombo,Paidha Town Council,298,3487,3785,213,2659,2872
+Northern,Zombo,Warr,153,1812,1965,142,1254,1396
+Northern,Zombo,Zeu,334,3260,3594,259,2272,2531
+Northern,Zombo,Zombo Town Council,128,1157,1285,71,854,925
+Northern,Zombo,Zombo Total,2307,22875,25182,1864,16268,18132
+Central,Buikwe,Central Division,242,3616,3858,229,2741,2970
+Central,Buikwe,Kawolo Division,307,3910,4217,272,2840,3112
+Central,Buikwe,Najjembe Division,206,3214,3420,146,2390,2536
+Central,Buikwe,Buikwe,138,1904,2042,115,1365,1480
+Central,Buikwe,Buikwe Town Council,161,1767,1928,137,1303,1440
+Central,Buikwe,Najja,297,4456,4753,225,3266,3491
+Central,Buikwe,Ngogwe,230,3534,3764,229,2455,2684
+Central,Buikwe,Njeru Town Council,419,6661,7080,483,4908,5391
+Central,Buikwe,Nkokonjeru Town Council,37,893,930,36,655,691
+Central,Buikwe,Nyenga,398,4678,5076,352,3313,3665
+Central,Buikwe,Ssi-Bukunja,203,2174,2377,165,1541,1706
+Central,Buikwe,Wakisi,277,4057,4334,210,2967,3177
+Central,Buikwe,Buikwe Total,2915,40864,43779,2599,29744,32343
+Central,Bukomansimbi,Bigasa,188,4502,4690,148,3259,3407
+Central,Bukomansimbi,Bukomansimbi  Town Council,79,960,1039,61,695,756
+Central,Bukomansimbi,Butenga,298,3898,4196,403,2581,2984
+Central,Bukomansimbi,Kibinge,130,3535,3665,174,2559,2733
+Central,Bukomansimbi,Kitanda,111,3126,3237,115,2246,2361
+Central,Bukomansimbi,Bukomansimbi Total,806,16021,16827,901,11340,12241
+Central,Butambala,Budde,89,1355,1444,104,987,1091
+Central,Butambala,Bulo,102,2120,2222,83,1558,1641
+Central,Butambala,Gombe Town Council,65,1742,1807,52,1264,1316
+Central,Butambala,Kalamba,135,2082,2217,119,1513,1632
+Central,Butambala,Kibibi,64,1540,1604,66,1123,1189
+Central,Butambala,Ngando,179,1967,2146,105,1484,1589
+Central,Butambala,Butambala Total,634,10806,11440,529,7929,8458
+Central,Buvuma,Bugaya,31,244,275,18,180,198
+Central,Buvuma,Busamuzi,97,1233,1330,112,806,918
+Central,Buvuma,Buvuma Town Council,52,672,724,54,444,498
+Central,Buvuma,Buwooya,91,991,1082,75,695,770
+Central,Buvuma,Bweema,82,379,461,62,282,344
+Central,Buvuma,Lubya,48,307,355,29,220,249
+Central,Buvuma,Lwajje,24,146,170,16,112,128
+Central,Buvuma,Lyabaana,22,111,133,16,86,102
+Central,Buvuma,Nairambi,180,1178,1358,119,840,959
+Central,Buvuma,Buvuma Total,627,5261,5888,501,3665,4166
+Central,Gomba,Kabulasoke,175,5141,5316,178,3640,3818
+Central,Gomba,Kanoni Town Council,61,1251,1312,55,945,1000
+Central,Gomba,Kyegonza,163,3093,3256,143,2191,2334
+Central,Gomba,Maddu,155,3338,3493,136,2391,2527
+Central,Gomba,Mpenja,111,3161,3272,103,2241,2344
+Central,Gomba,Gomba Total,665,15984,16649,615,11408,12023
+Central,Kalangala,Bujumba,52,392,444,41,279,320
+Central,Kalangala,Kalangala Town Council,15,309,324,21,230,251
+Central,Kalangala,Mugoye,32,692,724,42,462,504
+Central,Kalangala,Bubeke,19,111,130,13,80,93
+Central,Kalangala,Bufumira,31,296,327,31,208,239
+Central,Kalangala,Kyamuswa,18,148,166,12,114,126
+Central,Kalangala,Mazinga,24,74,98,16,59,75
+Central,Kalangala,Kalangala Total,191,2022,2213,176,1432,1608
+Central,Kalungu,Bukulula,202,4702,4904,3232,297,3529
+Central,Kalungu,Kalungu,144,3906,4050,2782,137,2919
+Central,Kalungu,Kalungu Town Council,34,777,811,543,48,591
+Central,Kalungu,Kyamulibwa,119,3824,3943,2779,122,2901
+Central,Kalungu,Lukaya Town Council,156,2258,2414,1688,125,1813
+Central,Kalungu,Lwabenge,138,3549,3687,2479,194,2673
+Central,Kalungu,Kalungu Total,793,19016,19809,13503,923,14426
+Central,Kampala,Central Division,216,5823,6039,447,4381,4828
+Central,Kampala,Kawempe Division,1267,27772,29039,1516,21559,23075
+Central,Kampala,Lubaga Division,1498,31694,33192,1614,24627,26241
+Central,Kampala,Makindye Division,1556,33240,34796,3074,24549,27623
+Central,Kampala,Nakawa Division,1028,26089,27117,2291,19222,21513
+Central,Kampala,Kampala Total,5565,124618,130183,8942,94338,103280
+Central,Kayunga,Bbaale,144,1470,1614,160,1040,1200
+Central,Kayunga,Galiraya,169,2083,2252,129,1487,1616
+Central,Kayunga,Kayonza,466,6051,6517,322,4389,4711
+Central,Kayunga,Kitimbwa,415,4852,5267,313,3501,3814
+Central,Kayunga,Busaana,346,6256,6602,304,4509,4813
+Central,Kayunga,Kangulumira,349,5768,6117,388,4055,4443
+Central,Kayunga,Kayunga,209,4577,4786,284,3213,3497
+Central,Kayunga,Kayunga Town Council,188,2748,2936,155,2084,2239
+Central,Kayunga,Nazigo,370,4496,4866,295,3232,3527
+Central,Kayunga,Kayunga Total,2656,38301,40957,2350,27510,29860
+Central,Kiboga,Bukomero,97,1389,1486,69,1024,1093
+Central,Kiboga,Bukomero Town Council,57,1259,1316,51,914,965
+Central,Kiboga,Ddwaniro,52,1083,1135,50,794,844
+Central,Kiboga,Kapeke,46,1493,1539,45,1066,1111
+Central,Kiboga,Kibiga,120,2333,2453,122,1626,1748
+Central,Kiboga,Kiboga Town Council,93,1782,1875,115,1319,1434
+Central,Kiboga,Lwamata,156,2644,2800,205,1849,2054
+Central,Kiboga,Muwanga,71,1783,1854,58,1319,1377
+Central,Kiboga,Kiboga Total,692,13766,14458,715,9911,10626
+Central,Kyankwazi,Bananywa,181,2662,2843,129,1883,2012
+Central,Kyankwazi,Butemba,256,3031,3287,192,2179,2371
+Central,Kyankwazi,Butemba Town Council,98,1326,1424,97,966,1063
+Central,Kyankwazi,Gayaza,120,1753,1873,129,1221,1350
+Central,Kyankwazi,Kyankwanzi,49,1103,1152,131,726,857
+Central,Kyankwazi,Mulagi,69,1325,1394,66,957,1023
+Central,Kyankwazi,Nkandwa,92,1266,1358,58,930,988
+Central,Kyankwazi,Nsambya,190,2225,2415,127,1615,1742
+Central,Kyankwazi,Ntwetwe,93,1410,1503,70,998,1068
+Central,Kyankwazi,Ntwetwe  Town Council,59,913,972,65,656,721
+Central,Kyankwazi,Wattuba,121,2104,2225,115,1498,1613
+Central,Kyankwazi,Kyankwazi Total,1328,19118,20446,1179,13629,14808
+Central,Luwero,Bamunanika,238,2892,3130,132,2190,2322
+Central,Luwero,Kalagala,151,4434,4585,248,3163,3411
+Central,Luwero,Kamira,142,2579,2721,142,1814,1956
+Central,Luwero,Kikyusa,226,3363,3589,159,2426,2585
+Central,Luwero,Zirobwe,321,4433,4754,212,3240,3452
+Central,Luwero,Bombo Town Council,219,2642,2861,179,2003,2182
+Central,Luwero,Butuntumula,208,3674,3882,203,2635,2838
+Central,Luwero,Katikamu,193,4564,4757,194,3315,3509
+Central,Luwero,Luweero Town Council,345,4081,4426,416,2924,3340
+Central,Luwero,Luwero,350,3364,3714,301,2411,2712
+Central,Luwero,Makulubita,103,3388,3491,121,2445,2566
+Central,Luwero,Nyimbwa,146,3417,3563,212,2476,2688
+Central,Luwero,Wobulenzi Town Council,106,2801,2907,97,2111,2208
+Central,Luwero,Luwero Total,2748,45632,48380,2616,33153,35769
+Central,Lwengo,Kisekka,327,5106,5433,376,3557,3933
+Central,Lwengo,Kkingo,181,3568,3749,166,2528,2694
+Central,Lwengo,Kyazanga,145,3606,3751,136,2555,2691
+Central,Lwengo,Kyazanga Town Council,119,1436,1555,80,1074,1154
+Central,Lwengo,Lwengo,321,5014,5335,329,3476,3805
+Central,Lwengo,Lwengo Town Council,91,1451,1542,57,1058,1115
+Central,Lwengo,Malongo,178,3991,4169,189,2834,3023
+Central,Lwengo,Ndagwe,237,3942,4179,166,2755,2921
+Central,Lwengo,Lwengo Total,1599,28114,29713,1499,19837,21336
+Central,Lyantonde,Kaliiro,148,1793,1941,77,1356,1433
+Central,Lyantonde,Kasagama,46,1010,1056,46,742,788
+Central,Lyantonde,Kinuuka,101,794,895,42,616,658
+Central,Lyantonde,Lyantonde,89,1808,1897,55,1286,1341
+Central,Lyantonde,Lyantonde Town Council,56,1077,1133,50,804,854
+Central,Lyantonde,Mpumudde,102,2206,2308,107,1551,1658
+Central,Lyantonde,Lyantonde Total,542,8688,9230,377,6355,6732
+Central,Masaka,Bukakata,92,1283,1375,85,873,958
+Central,Masaka,Buwunga,136,4379,4515,130,3128,3258
+Central,Masaka,Kabonera,101,3560,3661,108,2517,2625
+Central,Masaka,Kyanamukaaka,140,3110,3250,116,2189,2305
+Central,Masaka,Kyesiiga,112,2400,2512,95,1734,1829
+Central,Masaka,Mukungwe,208,4235,4443,168,3060,3228
+Central,Masaka,Katwe-Butego Division,65,2290,2355,82,1694,1776
+Central,Masaka,Kimaanya-Kyabakuza Division,100,3015,3115,182,2231,2413
+Central,Masaka,Nyendo-Ssenyange Division,249,3372,3621,199,2587,2786
+Central,Masaka,Masaka Total,1203,27644,28847,1165,20013,21178
+Central,Mityana,Busimbi Division,114,1501,1615,94,1089,1183
+Central,Mityana,Central Division,481,5037,5518,519,3679,4198
+Central,Mityana,Ttamu Division,226,2178,2404,132,1626,1758
+Central,Mityana,Bbanda,74,1349,1423,56,979,1035
+Central,Mityana,Butayunja,78,1071,1149,67,817,884
+Central,Mityana,Kakindu,108,1873,1981,147,1326,1473
+Central,Mityana,Maanyi,225,1926,2151,320,1272,1592
+Central,Mityana,Malangala,139,2344,2483,118,1700,1818
+Central,Mityana,Bulera,141,3030,3171,130,2249,2379
+Central,Mityana,Kalangaalo,159,2937,3096,126,2143,2269
+Central,Mityana,Kikandwa,151,2683,2834,143,1896,2039
+Central,Mityana,Namungo,100,1586,1686,86,1160,1246
+Central,Mityana,Ssekanyonyi,284,3408,3692,201,2479,2680
+Central,Mityana,Mityana Total,2280,30923,33203,2139,22415,24554
+Central,Mpigi,Buwama,271,4844,5115,336,3387,3723
+Central,Mpigi,Kammengo,184,3841,4025,447,2473,2920
+Central,Mpigi,Kiringente,131,1813,1944,151,1322,1473
+Central,Mpigi,Kituntu,114,2334,2448,130,1673,1803
+Central,Mpigi,Mpigi Town Council,178,4317,4495,174,3153,3327
+Central,Mpigi,Muduuma,216,2636,2852,176,1946,2122
+Central,Mpigi,Nkozi,239,3974,4213,223,2869,3092
+Central,Mpigi,Mpigi Total,1333,23759,25092,1637,16823,18460
+Central,Mubende,Butoloogo,240,3741,3981,270,2530,2800
+Central,Mubende,Kitenga,598,5002,5600,551,3551,4102
+Central,Mubende,Kiyuni,229,2154,2383,166,1533,1699
+Central,Mubende,Madudu,225,3087,3312,262,2162,2424
+Central,Mubende,Bagezza,79,1063,1142,52,741,793
+Central,Mubende,Kasambya,214,3365,3579,197,2416,2613
+Central,Mubende,Kibalinga,296,3138,3434,155,2351,2506
+Central,Mubende,Kigando,262,3795,4057,202,2764,2966
+Central,Mubende,Nabingoola,194,3468,3662,167,2519,2686
+Central,Mubende,Bukuya,166,3083,3249,132,2311,2443
+Central,Mubende,Kalwana,359,3087,3446,367,2174,2541
+Central,Mubende,Kassanda,261,4321,4582,224,3135,3359
+Central,Mubende,Kiganda,400,3595,3995,351,2593,2944
+Central,Mubende,Kitumbi,337,4550,4887,290,3195,3485
+Central,Mubende,Makokoto,49,770,819,53,528,581
+Central,Mubende,Manyogaseka,53,1014,1067,46,708,754
+Central,Mubende,Myanzi,121,2110,2231,169,1483,1652
+Central,Mubende,Nalutuntu,167,2594,2761,217,1769,1986
+Central,Mubende,Eastern Division,212,2250,2462,197,1642,1839
+Central,Mubende,Western Division,232,2382,2614,195,1768,1963
+Central,Mubende,Southern Division,195,2877,3072,233,2058,2291
+Central,Mubende,Mubende Total,4889,61446,66335,4496,43931,48427
+Central,Mukono,Central Division,522,5886,6408,675,4283,4958
+Central,Mukono,Goma Division,496,8427,8923,584,6380,6964
+Central,Mukono,Koome Island,131,697,828,126,465,591
+Central,Mukono,Kyampisi,305,4184,4489,280,3001,3281
+Central,Mukono,Mpatta,124,1488,1612,95,1125,1220
+Central,Mukono,Mpunge,72,1259,1331,62,885,947
+Central,Mukono,Nakisunga,534,4528,5062,642,3149,3791
+Central,Mukono,Nama,624,4723,5347,818,3224,4042
+Central,Mukono,Ntenjeru,339,3881,4220,274,2819,3093
+Central,Mukono,Kasawo,332,3415,3747,360,2428,2788
+Central,Mukono,Kimenyedde,336,3482,3818,452,2308,2760
+Central,Mukono,Nabbaale,578,3276,3854,254,2596,2850
+Central,Mukono,Nagojje,239,3194,3433,207,2309,2516
+Central,Mukono,Ntunda,106,1564,1670,128,1113,1241
+Central,Mukono,Seeta Namuganga,376,3770,4146,257,2785,3042
+Central,Mukono,Mukono Total,5114,53774,58888,5214,38870,44084
+Central,Nakeseke,Butalangu Town Council,20,304,324,18,201,219
+Central,Nakeseke,Kapeeka,210,2147,2357,204,1530,1734
+Central,Nakeseke,Kasangombe,150,2212,2362,170,1553,1723
+Central,Nakeseke,Kikamulo,138,1879,2017,127,1340,1467
+Central,Nakeseke,Kinoni,14,596,610,26,416,442
+Central,Nakeseke,Kinyogoga,20,776,796,78,501,579
+Central,Nakeseke,Kito,80,871,951,88,570,658
+Central,Nakeseke,Kiwoko Town Council,100,1083,1183,78,808,886
+Central,Nakeseke,Nakaseke,172,1670,1842,156,1184,1340
+Central,Nakeseke,Nakaseke Town Council,41,652,693,28,503,531
+Central,Nakeseke,Ngoma,25,590,615,65,382,447
+Central,Nakeseke,Ngoma Town Council,34,532,566,29,390,419
+Central,Nakeseke,Semuto,163,2267,2430,205,1605,1810
+Central,Nakeseke,Semuto Town Council,100,942,1042,141,634,775
+Central,Nakeseke,Wakyato,113,966,1079,83,706,789
+Central,Nakeseke,Nakeseke Total,1380,17487,18867,1496,12323,13819
+Central,Nakasongola,Kakooge,102,1988,2090,96,1480,1576
+Central,Nakasongola,Kakooge Town Council,56,923,979,82,648,730
+Central,Nakasongola,Kalongo,92,2084,2176,121,1462,1583
+Central,Nakasongola,Kalungi,109,2579,2688,112,1844,1956
+Central,Nakasongola,Lwabiyata,76,1601,1677,89,1121,1210
+Central,Nakasongola,Lwampanga,158,2658,2816,144,1887,2031
+Central,Nakasongola,Migeera Town Council,26,488,514,27,374,401
+Central,Nakasongola,Nabisweera,79,1533,1612,86,1090,1176
+Central,Nakasongola,Nakasongola Town Council,35,931,966,84,661,745
+Central,Nakasongola,Nakitoma,114,1321,1435,119,915,1034
+Central,Nakasongola,Wabinyonyi,74,1893,1967,69,1374,1443
+Central,Nakasongola,Nakasongola Total,921,17999,18920,1029,12856,13885
+Central,Rakai,Kakuuto,237,3668,3905,188,2599,2787
+Central,Rakai,Kasasa,107,1749,1856,124,1228,1352
+Central,Rakai,Kibanda,185,2248,2433,324,1372,1696
+Central,Rakai,Kifamba,107,1453,1560,119,1013,1132
+Central,Rakai,Kyebe,75,1795,1870,104,1227,1331
+Central,Rakai,Byakabanda,143,1841,1984,160,1282,1442
+Central,Rakai,Ddwaniro,195,3391,3586,171,2376,2547
+Central,Rakai,Kacheera,136,2229,2365,105,1600,1705
+Central,Rakai,Kagamba,178,3466,3644,271,2347,2618
+Central,Rakai,Kiziba,139,1944,2083,70,1371,1441
+Central,Rakai,Kyalulangira,190,2668,2858,189,1785,1974
+Central,Rakai,Lwamaggwa,474,4215,4689,411,2874,3285
+Central,Rakai,Lwanda,280,2779,3059,219,1913,2132
+Central,Rakai,Rakai Town Council,49,656,705,38,484,522
+Central,Rakai,Kabira,206,3066,3272,295,2047,2342
+Central,Rakai,Kalisizo,34,1879,1913,63,1333,1396
+Central,Rakai,Kalisizo Town Council,86,1221,1307,67,926,993
+Central,Rakai,Kasaali,109,2716,2825,110,1952,2062
+Central,Rakai,Kirumba,150,2725,2875,159,1922,2081
+Central,Rakai,Kyotera Town Council,91,1059,1150,84,811,895
+Central,Rakai,Lwankoni,68,1556,1624,74,1078,1152
+Central,Rakai,Nabigasa,123,2247,2370,121,1559,1680
+Central,Rakai,Rakai Total,3362,50571,53933,3466,35099,38565
+Central,Ssembabule,Lwemiyaga,151,3501,3652,128,2544,2672
+Central,Ssembabule,Ntuusi,153,2092,2245,214,1370,1584
+Central,Ssembabule,Lugusulu,151,2893,3044,193,2027,2220
+Central,Ssembabule,Lwebitakuli,273,6374,6647,285,4420,4705
+Central,Ssembabule,Mateete,267,5310,5577,239,3689,3928
+Central,Ssembabule,Mateete Town Council,48,906,954,58,641,699
+Central,Ssembabule,Mijwala,119,3045,3164,129,2082,2211
+Central,Ssembabule,Sembabule Town Council,42,600,642,35,425,460
+Central,Ssembabule,Ssembabule Total,1204,24721,25925,1281,17198,18479
+Central,Wakiso,Bussi,107,943,1050,94,664,758
+Central,Wakiso,Kakiri,232,3599,3831,443,2388,2831
+Central,Wakiso,Kakiri Town Council,80,1688,1768,60,1286,1346
+Central,Wakiso,Kasanje,162,2646,2808,168,1936,2104
+Central,Wakiso,Katabi,407,8852,9259,638,6466,7104
+Central,Wakiso,Masuliita,64,1132,1196,175,726,901
+Central,Wakiso,Masulita Town Council,103,1465,1568,142,1008,1150
+Central,Wakiso,Mende,148,2536,2684,236,1725,1961
+Central,Wakiso,Namayumba,148,1599,1747,120,1162,1282
+Central,Wakiso,Namayumba Town Council,123,1382,1505,106,1004,1110
+Central,Wakiso,Nsangi,909,17172,18081,1102,12765,13867
+Central,Wakiso,Ssisa,343,7896,8239,483,5880,6363
+Central,Wakiso,Wakiso,1060,15229,16289,1118,11429,12547
+Central,Wakiso,Wakiso Town Council,312,5628,5940,346,4254,4600
+Central,Wakiso,Nangabo,656,12694,13350,825,9472,10297
+Central,Wakiso,Division A,146,3667,3813,218,2801,3019
+Central,Wakiso,Division B,122,2749,2871,217,2031,2248
+Central,Wakiso,Bweyogerere Division,543,9076,9619,993,6566,7559
+Central,Wakiso,Kira Division,341,4676,5017,430,3479,3909
+Central,Wakiso,Namugongo Division,704,12428,13132,1116,9403,10519
+Central,Wakiso,Bunamwaya Division,311,6403,6714,354,4990,5344
+Central,Wakiso,Masajja Division,518,9956,10474,701,7402,8103
+Central,Wakiso,Ndejje Division,364,8453,8817,712,6165,6877
+Central,Wakiso,Busukuma Division,234,3523,3757,202,2595,2797
+Central,Wakiso,Gombe Division,288,7206,7494,474,5169,5643
+Central,Wakiso,Nabweru Division,597,9109,9706,732,6695,7427
+Central,Wakiso,Nansana Division,783,12910,13693,1032,9623,10655
+Central,Wakiso,Wakiso Total,9805,174625,184430,13237,129089,142326
+Eastern,Amuria,Abarilela,135,2637,2772,98,1928,2026
+Eastern,Amuria,Acowa,92,1505,1597,53,1131,1184
+Eastern,Amuria,Akeriau,20,725,745,22,517,539
+Eastern,Amuria,Akoromit,92,1591,1683,75,1159,1234
+Eastern,Amuria,Amuria Town Council,75,2249,2324,51,1641,1692
+Eastern,Amuria,Apeduru,78,2004,2082,78,1431,1509
+Eastern,Amuria,Asamuk,108,1757,1865,81,1304,1385
+Eastern,Amuria,Kapelebyong,80,1490,1570,66,1099,1165
+Eastern,Amuria,Kuju,124,1571,1695,75,1177,1252
+Eastern,Amuria,Morungatuny,130,2552,2682,144,1791,1935
+Eastern,Amuria,Obalanga,104,1434,1538,85,1031,1116
+Eastern,Amuria,Ogolai,126,1738,1864,73,1241,1314
+Eastern,Amuria,Okungur,94,1941,2035,95,1354,1449
+Eastern,Amuria,Orungo,221,1785,2006,186,1244,1430
+Eastern,Amuria,Wera,96,1914,2010,87,1359,1446
+Eastern,Amuria,Willa,146,1365,1511,147,919,1066
+Eastern,Amuria,Amuria Total,1721,28258,29979,1416,20326,21742
+Eastern,Budaka,Budaka,92,1100,1192,63,808,871
+Eastern,Budaka,Budaka Town Council,107,2546,2653,108,1907,2015
+Eastern,Budaka,Kachomo,83,1553,1636,66,1133,1199
+Eastern,Budaka,Kaderuna,107,1810,1917,62,1323,1385
+Eastern,Budaka,Kakule,93,1321,1414,93,900,993
+Eastern,Budaka,Lyama,121,1848,1969,89,1319,1408
+Eastern,Budaka,Naboa,86,1505,1591,75,1076,1151
+Eastern,Budaka,Nansanga,59,971,1030,33,721,754
+Eastern,Budaka,Iki-Iki,125,2057,2182,111,1467,1578
+Eastern,Budaka,Kameruka,97,1508,1605,80,1081,1161
+Eastern,Budaka,Kamonkoli,137,2612,2749,138,1853,1991
+Eastern,Budaka,Katiira,131,1747,1878,82,1327,1409
+Eastern,Budaka,Mugiti,98,1202,1300,96,861,957
+Eastern,Budaka,Budaka Total,1336,21780,23116,1096,15776,16872
+Eastern,Bududa,Bubiita,84,689,773,58,519,577
+Eastern,Bududa,Bududa Town Council,20,765,785,25,595,620
+Eastern,Bududa,Bududa,49,1148,1197,83,798,881
+Eastern,Bududa,Bukalasi,141,1299,1440,88,972,1060
+Eastern,Bududa,Bukibokolo,46,1128,1174,45,807,852
+Eastern,Bududa,Bukigai,85,2178,2263,124,1581,1705
+Eastern,Bududa,Bulucheke,64,1791,1855,70,1346,1416
+Eastern,Bududa,Bumasheti,87,1839,1926,69,1373,1442
+Eastern,Bududa,Bumayoka,160,2335,2495,136,1701,1837
+Eastern,Bududa,Bushika,227,3460,3687,187,2498,2685
+Eastern,Bududa,Bushiribo,44,1253,1297,43,879,922
+Eastern,Bududa,Bushiyi,179,1641,1820,154,1214,1368
+Eastern,Bududa,Buwali,37,662,699,26,493,519
+Eastern,Bududa,Nabweya,87,1114,1201,49,827,876
+Eastern,Bududa,Nakatsi,63,1244,1307,47,939,986
+Eastern,Bududa,Nalwanza,47,972,1019,24,709,733
+Eastern,Bududa,Bududa Total,5271,48546,53817,1228,17251,18479
+Eastern,Bugiri,Budhaya,188,3040,3228,210,2086,2296
+Eastern,Bugiri,Bugiri  Town Council,175,3122,3297,149,2366,2515
+Eastern,Bugiri,Bulesa,346,3876,4222,280,2730,3010
+Eastern,Bugiri,Bulidha,169,2435,2604,155,1719,1874
+Eastern,Bugiri,Buluguyi,246,3060,3306,164,2162,2326
+Eastern,Bugiri,Buwunga,391,4666,5057,345,3297,3642
+Eastern,Bugiri,Iwemba,153,1839,1992,122,1294,1416
+Eastern,Bugiri,Kapyanga,497,6226,6723,484,4416,4900
+Eastern,Bugiri,Muterere,164,2941,3105,164,2025,2189
+Eastern,Bugiri,Nabukalu,329,3567,3896,307,2494,2801
+Eastern,Bugiri,Nankoma,364,4366,4730,316,3058,3374
+Eastern,Bugiri,Bugiri Total,3022,39138,42160,2696,27647,30343
+Eastern,Bukedea,Bukedea,148,3109,3257,99,2240,2339
+Eastern,Bukedea,Bukedea Town Council,40,1049,1089,26,750,776
+Eastern,Bukedea,Kachumbala,229,5984,6213,167,4265,4432
+Eastern,Bukedea,Kidongole,160,2895,3055,94,2097,2191
+Eastern,Bukedea,Kolir,173,3325,3498,115,2401,2516
+Eastern,Bukedea,Malera,275,4515,4790,202,3258,3460
+Eastern,Bukedea,Bukedea Total,1025,20877,21902,703,15011,15714
+Eastern,Bukwo,Bukwo,43,831,874,72,573,645
+Eastern,Bukwo,Bukwo Town Council,38,797,835,38,573,611
+Eastern,Bukwo,Chepkwasta,102,792,894,75,567,642
+Eastern,Bukwo,Chesower,34,684,718,28,500,528
+Eastern,Bukwo,Kabei,30,625,655,27,454,481
+Eastern,Bukwo,Kamet,29,471,500,18,349,367
+Eastern,Bukwo,Kaptererwo,81,857,938,61,623,684
+Eastern,Bukwo,Kortek,46,590,636,32,406,438
+Eastern,Bukwo,Riwo,39,721,760,32,495,527
+Eastern,Bukwo,Senendet,40,951,991,47,695,742
+Eastern,Bukwo,Suam,44,979,1023,102,616,718
+Eastern,Bukwo,Tulel,26,547,573,59,353,412
+Eastern,Bukwo,Bukwo Total,552,8845,9397,591,6204,6795
+Eastern,Bulambuli,Buginyanya,21,601,622,62,383,445
+Eastern,Bulambuli,Bukhalu,196,2544,2740,177,1811,1988
+Eastern,Bulambuli,Bulaago,183,858,1041,193,562,755
+Eastern,Bulambuli,Bulambuli Town Council,16,364,380,17,272,289
+Eastern,Bulambuli,Bulegeni,27,558,585,23,398,421
+Eastern,Bulambuli,Simu,75,599,674,31,386,417
+Eastern,Bulambuli,Buluganya,71,1341,1412,82,985,1067
+Eastern,Bulambuli,Bumasobo,51,822,873,46,592,638
+Eastern,Bulambuli,Bumugibole,45,600,645,48,432,480
+Eastern,Bulambuli,Bunambutye,103,721,824,78,540,618
+Eastern,Bulambuli,Bwikhonge,72,728,800,59,529,588
+Eastern,Bulambuli,Nabbongo,57,947,1004,38,696,734
+Eastern,Bulambuli,Muyembe,53,808,861,51,618,669
+Eastern,Bulambuli,Lusha,80,818,898,46,637,683
+Eastern,Bulambuli,Masiira,69,1070,1139,47,806,853
+Eastern,Bulambuli,Kamu,41,807,848,87,520,607
+Eastern,Bulambuli,Namisuni,47,948,995,34,717,751
+Eastern,Bulambuli,Sisiyi,163,1374,1537,119,1077,1196
+Eastern,Bulambuli,Bulegeni Town Council,62,1643,1705,77,1204,1281
+Eastern,Bulambuli,Bulambuli Total,1432,18151,19583,1315,13165,14480
+Eastern,Busia,Eastern Division,281,3269,3550,260,2458,2718
+Eastern,Busia,Western Division,119,2354,2473,158,1747,1905
+Eastern,Busia,Buhehe,89,2127,2216,94,1506,1600
+Eastern,Busia,Bulumbi,137,1676,1813,155,1193,1348
+Eastern,Busia,Busime,120,1897,2017,138,1349,1487
+Eastern,Busia,Busitema,107,1792,1899,98,1271,1369
+Eastern,Busia,Buteba,147,2990,3137,187,2037,2224
+Eastern,Busia,Buyanga,121,1971,2092,79,1405,1484
+Eastern,Busia,Dabani,214,3058,3272,183,2201,2384
+Eastern,Busia,Lumino,67,1496,1563,99,1037,1136
+Eastern,Busia,Lunyo,101,1495,1596,89,1068,1157
+Eastern,Busia,Majanji,41,1174,1215,58,822,880
+Eastern,Busia,Masaba,127,2461,2588,121,1816,1937
+Eastern,Busia,Masafu,109,2213,2322,95,1577,1672
+Eastern,Busia,Masinya,114,2166,2280,120,1510,1630
+Eastern,Busia,Sikuda,108,1928,2036,92,1376,1468
+Eastern,Busia,Busia Total,2002,34067,36069,2026,24373,26399
+Eastern,Butaleja,Budumba,209,2338,2547,126,1624,1750
+Eastern,Butaleja,Busaba,168,2457,2625,124,1760,1884
+Eastern,Butaleja,Busabi,198,1835,2033,124,1321,1445
+Eastern,Butaleja,Busolwe,87,1528,1615,80,1069,1149
+Eastern,Butaleja,Busolwe Town Council,80,1496,1576,51,1128,1179
+Eastern,Butaleja,Butaleja,97,1571,1668,70,1139,1209
+Eastern,Butaleja,Butaleja Town Council,119,1937,2056,133,1360,1493
+Eastern,Butaleja,Himutu,237,1379,1616,67,1097,1164
+Eastern,Butaleja,Kachonga,218,2488,2706,159,1802,1961
+Eastern,Butaleja,Mazimasa,211,3261,3472,152,2356,2508
+Eastern,Butaleja,Nawanjofu,150,1773,1923,126,1238,1364
+Eastern,Butaleja,Naweyo,185,2128,2313,159,1522,1681
+Eastern,Butaleja,Butaleja Total,1959,24191,26150,1371,17416,18787
+Eastern,Buyende,Bugaya,666,8149,8815,665,5608,6273
+Eastern,Buyende,Buyende,324,3995,4319,349,2724,3073
+Eastern,Buyende,Buyende Town Council,198,2172,2370,264,1449,1713
+Eastern,Buyende,Kagulu,667,7293,7960,598,5066,5664
+Eastern,Buyende,Kidera,745,6046,6791,753,4137,4890
+Eastern,Buyende,Nkondo,331,2915,3246,368,1902,2270
+Eastern,Buyende,Buyende Total,2931,30570,33501,2997,20886,23883
+Eastern,Iganga,Central Division,173,3266,3439,276,2448,2724
+Eastern,Iganga,Northern Division,415,2188,2603,269,1715,1984
+Eastern,Iganga,Busembatia Town Council,121,1516,1637,34,1237,1271
+Eastern,Iganga,Buyanga,282,5411,5693,351,3766,4117
+Eastern,Iganga,Ibulanku,194,3830,4024,199,2750,2949
+Eastern,Iganga,Igombe,94,1890,1984,126,1301,1427
+Eastern,Iganga,Makuutu,301,2729,3030,289,1926,2215
+Eastern,Iganga,Namalemba,200,2467,2667,262,1718,1980
+Eastern,Iganga,Bulamogi,172,3171,3343,297,2223,2520
+Eastern,Iganga,Nabitende,240,3121,3361,185,2222,2407
+Eastern,Iganga,Nakalama,325,4894,5219,342,3524,3866
+Eastern,Iganga,Nakigo,310,4318,4628,368,3064,3432
+Eastern,Iganga,Nambale,295,5051,5346,262,3615,3877
+Eastern,Iganga,Namungalwe,403,3727,4130,309,2739,3048
+Eastern,Iganga,Nawandala,204,3466,3670,193,2518,2711
+Eastern,Iganga,Nawanyingi,218,2856,3074,222,2031,2253
+Eastern,Iganga,Iganga Total,3947,53901,57848,3984,38797,42781
+Eastern,Jinja,Central Division,37,1802,1839,1426,51,1477
+Eastern,Jinja,Mpumudde Division,103,2239,2342,1735,105,1840
+Eastern,Jinja,Bugembe Town Council,229,3843,4072,3063,169,3232
+Eastern,Jinja,Busedde,295,3964,4259,2951,249,3200
+Eastern,Jinja,Kakira Town Council,101,3288,3389,2479,99,2578
+Eastern,Jinja,Mafubira,502,7844,8346,5898,422,6320
+Eastern,Jinja,Masese Walukuba,154,2901,3055,2174,156,2330
+Eastern,Jinja,Budondo,230,5631,5861,4082,270,4352
+Eastern,Jinja,Butagaya,339,6119,6458,4435,304,4739
+Eastern,Jinja,Buwenge,230,5287,5517,3703,339,4042
+Eastern,Jinja,Buwenge Town Council,212,2187,2399,1693,116,1809
+Eastern,Jinja,Buyengo,349,3413,3762,2519,267,2786
+Eastern,Jinja,Jinja Total,2781,48518,51299,36158,2547,38705
+Eastern,Kaberamaido,Alwa,170,2521,2691,152,1825,1977
+Eastern,Kaberamaido,Aperkira,87,1603,1690,84,1130,1214
+Eastern,Kaberamaido,Kaberamaido,156,1926,2082,97,1440,1537
+Eastern,Kaberamaido,Kaberamaido Town Council,15,430,445,18,321,339
+Eastern,Kaberamaido,Kobulubulu,135,2085,2220,102,1512,1614
+Eastern,Kaberamaido,Ochero,224,2692,2916,142,1912,2054
+Eastern,Kaberamaido,Anyara,115,2359,2474,83,1759,1842
+Eastern,Kaberamaido,Apapai,69,1181,1250,63,844,907
+Eastern,Kaberamaido,Bululu,148,2205,2353,191,1519,1710
+Eastern,Kaberamaido,Kakure,88,1301,1389,57,949,1006
+Eastern,Kaberamaido,Kalaki,123,1744,1867,122,1270,1392
+Eastern,Kaberamaido,Otuboi,97,2796,2893,95,2062,2157
+Eastern,Kaberamaido,Kaberamaido Total,1427,22843,24270,1206,16543,17749
+Eastern,Kaliro,Bumanya,301,5499,5800,291,3900,4191
+Eastern,Kaliro,Gadumire,288,3328,3616,228,2317,2545
+Eastern,Kaliro,Kaliro Town Council,61,1794,1855,80,1326,1406
+Eastern,Kaliro,Namugongo,256,3618,3874,202,2602,2804
+Eastern,Kaliro,Namwiwa,298,3669,3967,254,2599,2853
+Eastern,Kaliro,Nawaikoke,341,6530,6871,429,4556,4985
+Eastern,Kaliro,Kaliro Total,1545,24438,25983,1484,17300,18784
+Eastern,Kamuli,Northern Division,181,2989,3170,194,2193,2387
+Eastern,Kamuli,Southern Division,226,2977,3203,172,2218,2390
+Eastern,Kamuli,Balawoli,393,5313,5706,418,3686,4104
+Eastern,Kamuli,Bulopa,131,3035,3166,82,2242,2324
+Eastern,Kamuli,Butansi,219,3179,3398,224,2226,2450
+Eastern,Kamuli,Kitayunjwa,306,4218,4524,278,3014,3292
+Eastern,Kamuli,Nabwigulu,171,2286,2457,249,1551,1800
+Eastern,Kamuli,Namasagali,269,3719,3988,393,2452,2845
+Eastern,Kamuli,Namwendwa,329,6024,6353,414,4244,4658
+Eastern,Kamuli,Bugulumbya,132,4247,4379,178,3024,3202
+Eastern,Kamuli,Kisozi,386,5434,5820,342,3946,4288
+Eastern,Kamuli,Mbulamuti,336,3162,3498,230,2329,2559
+Eastern,Kamuli,Nawanyago,165,2861,3026,255,2009,2264
+Eastern,Kamuli,Wankole,90,2213,2303,160,1490,1650
+Eastern,Kamuli,Kamuli Total,3334,51657,54991,3589,36624,40213
+Eastern,Kapchorwa,Central Division,79,1180,1259,101,865,966
+Eastern,Kapchorwa,Eastern Division,70,1134,1204,76,803,879
+Eastern,Kapchorwa,Western Division,79,2138,2217,144,1484,1628
+Eastern,Kapchorwa,Amukol,15,427,442,17,299,316
+Eastern,Kapchorwa,Chema,74,871,945,55,636,691
+Eastern,Kapchorwa,Chepterech,32,514,546,40,378,418
+Eastern,Kapchorwa,Gamogo,27,362,389,16,269,285
+Eastern,Kapchorwa,Kabeywa,40,526,566,30,384,414
+Eastern,Kapchorwa,Kapsinda,33,782,815,52,542,594
+Eastern,Kapchorwa,Kaptanya,62,814,876,79,551,630
+Eastern,Kapchorwa,Kaserem,49,516,565,40,379,419
+Eastern,Kapchorwa,Kawowo,76,733,809,51,521,572
+Eastern,Kapchorwa,Munarya,28,598,626,28,445,473
+Eastern,Kapchorwa,Sipi,19,521,540,14,382,396
+Eastern,Kapchorwa,Kapchorwa Total,683,11116,11799,743,7938,8681
+Eastern,Katakwi,Kapujan,60,1412,1472,75,950,1025
+Eastern,Katakwi,Magoro,90,1825,1915,113,1267,1380
+Eastern,Katakwi,Omodoi,48,1781,1829,64,1227,1291
+Eastern,Katakwi,Toroma,52,1235,1287,79,868,947
+Eastern,Katakwi,Katakwi,215,3850,4065,227,2736,2963
+Eastern,Katakwi,Katakwi Town   Council,27,830,857,24,613,637
+Eastern,Katakwi,Ngariam,125,1076,1201,156,695,851
+Eastern,Katakwi,Ongongoja,75,1596,1671,79,1150,1229
+Eastern,Katakwi,Palam,102,1126,1228,111,777,888
+Eastern,Katakwi,Usuk,107,2257,2364,92,1639,1731
+Eastern,Katakwi,Katakwi Total,901,16988,17889,1020,11922,12942
+Eastern,Kibuuku,Bulangira,159,2518,2677,258,1701,1959
+Eastern,Kibuuku,Buseta,107,1684,1791,62,1196,1258
+Eastern,Kibuuku,Kabweri,173,1638,1811,100,1215,1315
+Eastern,Kibuuku,Kadama,114,2138,2252,97,1518,1615
+Eastern,Kibuuku,Kagumu,217,2833,3050,161,2041,2202
+Eastern,Kibuuku,Kasasira,235,2215,2450,271,1492,1763
+Eastern,Kibuuku,Kibuku,100,1286,1386,75,931,1006
+Eastern,Kibuuku,Kibuku Town Council,48,877,925,54,631,685
+Eastern,Kibuuku,Kirika,137,2546,2683,107,1815,1922
+Eastern,Kibuuku,Tirinyi,346,3189,3535,303,2213,2516
+Eastern,Kibuuku,Kibuuku Total,1636,20924,22560,1488,14753,16241
+Eastern,Kumi,Northern Division,64,1926,1990,52,1425,1477
+Eastern,Kumi,Southern Division,73,2043,2116,98,1473,1571
+Eastern,Kumi,Atutur,93,2255,2348,89,1637,1726
+Eastern,Kumi,Kanyum,195,4468,4663,153,3206,3359
+Eastern,Kumi,Kumi,63,1858,1921,62,1366,1428
+Eastern,Kumi,Mukongoro,232,4913,5145,194,3564,3758
+Eastern,Kumi,Nyero,112,3665,3777,129,2638,2767
+Eastern,Kumi,Ongino,215,4392,4607,200,3126,3326
+Eastern,Kumi,Kumi Total,1047,25520,26567,977,18435,19412
+Eastern,Kween,Benet,62,1216,1278,76,845,921
+Eastern,Kween,Binyiny,21,549,570,20,403,423
+Eastern,Kween,Binyiny Town Council,12,382,394,10,284,294
+Eastern,Kween,Kaproron,8,503,511,18,346,364
+Eastern,Kween,Kaptoyoy,18,900,918,35,636,671
+Eastern,Kween,Kaptum,54,984,1038,44,731,775
+Eastern,Kween,Kiriki,35,328,363,34,222,256
+Eastern,Kween,Kitawoi,31,840,871,58,573,631
+Eastern,Kween,Kwanyiy,78,1092,1170,79,761,840
+Eastern,Kween,Kwosir,69,1335,1404,74,939,1013
+Eastern,Kween,Moyok,19,550,569,18,388,406
+Eastern,Kween,Ngenge,103,784,887,94,535,629
+Eastern,Kween,Kween Total,510,9463,9973,560,6663,7223
+Eastern,Luuka,Bukanga,342,4554,4896,435,3170,3605
+Eastern,Luuka,Bukooma,447,4105,4552,564,2780,3344
+Eastern,Luuka,Bulongo,196,3144,3340,212,2241,2453
+Eastern,Luuka,Ikumbya,184,3666,3850,234,2566,2800
+Eastern,Luuka,Irongo,130,3080,3210,155,2193,2348
+Eastern,Luuka,Luuka Town Council,56,1073,1129,95,725,820
+Eastern,Luuka,Nawampiti,106,2450,2556,175,1728,1903
+Eastern,Luuka,Waibuga,505,3870,4375,415,2802,3217
+Eastern,Luuka,Luuka Total,1966,25942,27908,2285,18205,20490
+Eastern,Manafwa,Bubutu,135,2393,2528,89,1761,1850
+Eastern,Manafwa,Bugobero,75,1406,1481,67,1015,1082
+Eastern,Manafwa,Bukhabusi,75,1030,1105,80,703,783
+Eastern,Manafwa,Bukhaweka,67,963,1030,64,679,743
+Eastern,Manafwa,Bukhofu,48,791,839,22,604,626
+Eastern,Manafwa,Bukiabi,69,1101,1170,50,752,802
+Eastern,Manafwa,Bukokho,169,1886,2055,85,1404,1489
+Eastern,Manafwa,Bukusu,76,1299,1375,37,975,1012
+Eastern,Manafwa,Bumbo,119,1694,1813,72,1229,1301
+Eastern,Manafwa,Bumwoni,113,2044,2157,81,1453,1534
+Eastern,Manafwa,Bunabwana,58,1250,1308,38,890,928
+Eastern,Manafwa,Bupoto,109,1345,1454,73,980,1053
+Eastern,Manafwa,Busukuya,102,1357,1459,83,961,1044
+Eastern,Manafwa,Butiru,173,1738,1911,114,1296,1410
+Eastern,Manafwa,Butta,25,457,482,16,346,362
+Eastern,Manafwa,Buwabwala,77,715,792,30,541,571
+Eastern,Manafwa,Buwagogo,34,742,776,21,538,559
+Eastern,Manafwa,Kaato,32,939,971,29,688,717
+Eastern,Manafwa,Khabutoola,79,1722,1801,79,1271,1350
+Eastern,Manafwa,Lwakhakha Town Council,68,949,1017,39,691,730
+Eastern,Manafwa,Magale,169,2109,2278,104,1541,1645
+Eastern,Manafwa,Manafwa Town Council,62,1452,1514,65,1067,1132
+Eastern,Manafwa,Mukoto,89,750,839,40,572,612
+Eastern,Manafwa,Nalondo,63,583,646,45,433,478
+Eastern,Manafwa,Namabya,66,1097,1163,53,816,869
+Eastern,Manafwa,Namboko,78,1075,1153,46,771,817
+Eastern,Manafwa,Sibanga,29,817,846,29,603,632
+Eastern,Manafwa,Sisuni,15,433,448,11,285,296
+Eastern,Manafwa,Tsekululu,249,1448,1697,125,1084,1209
+Eastern,Manafwa,Weswa,62,757,819,38,585,623
+Eastern,Manafwa,Manafwa Total,2585,36342,38927,1725,26534,28259
+Eastern,Mayuge,Baitambogwe,305,3978,4283,390,2814,3204
+Eastern,Mayuge,Bukabooli,522,4090,4612,335,2962,3297
+Eastern,Mayuge,Bukatube,372,3829,4201,382,2609,2991
+Eastern,Mayuge,Busakira,477,2979,3456,370,2156,2526
+Eastern,Mayuge,Buwaaya,249,2235,2484,298,1504,1802
+Eastern,Mayuge,Imanyiro,288,3317,3605,434,2219,2653
+Eastern,Mayuge,Jaguzi,116,859,975,120,571,691
+Eastern,Mayuge,Kigandalo,320,3187,3507,326,2207,2533
+Eastern,Mayuge,Kityerera,550,4315,4865,520,3033,3553
+Eastern,Mayuge,Malongo,878,9045,9923,820,6182,7002
+Eastern,Mayuge,Mayuge Town Council,113,1819,1932,103,1342,1445
+Eastern,Mayuge,Mpungwe,296,2689,2985,405,1786,2191
+Eastern,Mayuge,Wairasa,324,3341,3665,566,2184,2750
+Eastern,Mayuge,Mayuge Total,4810,45683,50493,5069,31569,36638
+Eastern,Mbale,Industrial Divison,194,4164,4358,393,3034,3427
+Eastern,Mbale,Northern Division,269,3293,3562,469,2306,2775
+Eastern,Mbale,Wanale Division,77,1480,1557,142,1066,1208
+Eastern,Mbale,Bubyangu,358,2063,2421,313,1460,1773
+Eastern,Mbale,Budwale,46,877,923,69,607,676
+Eastern,Mbale,Bufumbo,172,2428,2600,247,1640,1887
+Eastern,Mbale,Bukasakya,343,2849,3192,371,1984,2355
+Eastern,Mbale,Bukiende,120,2291,2411,193,1601,1794
+Eastern,Mbale,Bukonde,227,1949,2176,184,1467,1651
+Eastern,Mbale,Bumasikye,90,1324,1414,98,946,1044
+Eastern,Mbale,Bumbobi,159,1649,1808,134,1205,1339
+Eastern,Mbale,Bungokho,225,2861,3086,262,2027,2289
+Eastern,Mbale,Bungokho Mutoto,400,3304,3704,323,2501,2824
+Eastern,Mbale,Busano,119,1548,1667,136,1095,1231
+Eastern,Mbale,Busiu,120,2669,2789,174,1871,2045
+Eastern,Mbale,Busoba,81,2258,2339,100,1636,1736
+Eastern,Mbale,Lukhonge,103,1056,1159,63,762,825
+Eastern,Mbale,Lwasso,61,865,926,56,641,697
+Eastern,Mbale,Nakaloke,183,2457,2640,244,1675,1919
+Eastern,Mbale,Nakaloke Town Council,206,2780,2986,235,2013,2248
+Eastern,Mbale,Namanyonyi,227,3109,3336,452,2048,2500
+Eastern,Mbale,Nyondo,64,1283,1347,68,944,1012
+Eastern,Mbale,Wanale,186,1362,1548,138,1000,1138
+Eastern,Mbale,Mbale Total,4030,49919,53949,4864,35529,40393
+Eastern,Namayingo,Banda,421,4333,4754,394,2990,3384
+Eastern,Namayingo,Bukana,119,652,771,115,417,532
+Eastern,Namayingo,Buhemba,325,2440,2765,417,1500,1917
+Eastern,Namayingo,Buswale,264,2616,2880,210,1818,2028
+Eastern,Namayingo,Buyinja,188,2413,2601,172,1686,1858
+Eastern,Namayingo,Lolwe,105,537,642,74,379,453
+Eastern,Namayingo,Mutumba,356,4122,4478,436,2723,3159
+Eastern,Namayingo,Namayingo Town Council,80,1733,1813,112,1208,1320
+Eastern,Namayingo,Sigulu Island,102,1274,1376,118,879,997
+Eastern,Namayingo,Namayingo Total,1960,20120,22080,2048,13600,15648
+Eastern,Namutumba,Bulange,335,4240,4575,284,2954,3238
+Eastern,Namutumba,Ivukula,376,4312,4688,277,3047,3324
+Eastern,Namutumba,Kibaale,208,3419,3627,131,2520,2651
+Eastern,Namutumba,Magada,292,5067,5359,237,3675,3912
+Eastern,Namutumba,Namutumba,243,3842,4085,175,2809,2984
+Eastern,Namutumba,Namutumba Town Council,191,1912,2103,227,1342,1569
+Eastern,Namutumba,Nsinze,98,2756,2854,115,1952,2067
+Eastern,Namutumba,Namutumba Total,1743,25548,27291,1446,18299,19745
+Eastern,Ngora,Kapir,111,3378,3489,175,2402,2577
+Eastern,Ngora,Kobwin,180,3594,3774,155,2573,2728
+Eastern,Ngora,Mukura,103,3749,3852,162,2691,2853
+Eastern,Ngora,Ngora,109,3123,3232,134,2240,2374
+Eastern,Ngora,Ngora Town Council,44,1519,1563,82,1094,1176
+Eastern,Ngora,Ngora Total,547,15363,15910,708,11000,11708
+Eastern,Pallisa,Butebo,298,2929,3227,266,2050,2316
+Eastern,Pallisa,Kabwangasi,341,2953,3294,241,2169,2410
+Eastern,Pallisa,Kakoro,122,1927,2049,128,1391,1519
+Eastern,Pallisa,Kanginima,76,1066,1142,54,782,836
+Eastern,Pallisa,Kibale,71,1753,1824,63,1257,1320
+Eastern,Pallisa,Opwateta,104,1820,1924,109,1274,1383
+Eastern,Pallisa,Petete,260,2736,2996,233,1928,2161
+Eastern,Pallisa,Kamuge,182,2306,2488,281,1504,1785
+Eastern,Pallisa,Kasodo,113,1556,1669,112,1103,1215
+Eastern,Pallisa,Olok,166,1837,2003,79,1362,1441
+Eastern,Pallisa,Pallisa,87,1690,1777,64,1248,1312
+Eastern,Pallisa,Pallisa Town Council,182,3511,3693,200,2523,2723
+Eastern,Pallisa,Puti-Puti,216,2512,2728,141,1853,1994
+Eastern,Pallisa,Agule,115,1913,2028,168,1282,1450
+Eastern,Pallisa,Akisim,281,1175,1456,586,500,1086
+Eastern,Pallisa,Apopong,199,2744,2943,134,1998,2132
+Eastern,Pallisa,Chelekura,73,1394,1467,66,1005,1071
+Eastern,Pallisa,Gogonyo,432,3101,3533,395,2166,2561
+Eastern,Pallisa,Kameke,85,1899,1984,84,1372,1456
+Eastern,Pallisa,Pallisa Total,3403,40822,44225,3404,28767,32171
+Eastern,Serere,Bugondo,191,3764,3955,197,2617,2814
+Eastern,Serere,Kadungulu,330,3191,3521,220,2298,2518
+Eastern,Serere,Kasilo Town Council,15,366,381,15,276,291
+Eastern,Serere,Labori,268,1816,2084,86,1379,1465
+Eastern,Serere,Pingire,237,3483,3720,240,2480,2720
+Eastern,Serere,Atiira,136,2115,2251,177,1473,1650
+Eastern,Serere,Kateta,239,5761,6000,324,4027,4351
+Eastern,Serere,Kyere,414,5070,5484,280,3626,3906
+Eastern,Serere,Olio,149,2957,3106,157,2093,2250
+Eastern,Serere,Serere Town Council,12,819,831,29,591,620
+Eastern,Serere,Serere Total,1991,29342,31333,1725,20860,22585
+Eastern,Sironko,Budadiri Town Council,104,1933,2037,129,1478,1607
+Eastern,Sironko,Bugitimwa,82,824,906,42,619,661
+Eastern,Sironko,Buhugu,34,804,838,46,569,615
+Eastern,Sironko,Bukhulo,112,1982,2094,99,1431,1530
+Eastern,Sironko,Bukiise,136,2086,2222,113,1538,1651
+Eastern,Sironko,Bukiyi,69,1332,1401,64,973,1037
+Eastern,Sironko,Bukyabo,21,746,767,29,558,587
+Eastern,Sironko,Bukyambi,21,368,389,20,268,288
+Eastern,Sironko,Bumalimba,88,1760,1848,68,1313,1381
+Eastern,Sironko,Bumasifwa,122,945,1067,57,730,787
+Eastern,Sironko,Bunyafa,92,1201,1293,93,895,988
+Eastern,Sironko,Busulani,43,811,854,48,596,644
+Eastern,Sironko,Butandiga,75,605,680,36,483,519
+Eastern,Sironko,Buteza,113,1114,1227,108,807,915
+Eastern,Sironko,Buwalasi,83,1349,1432,67,995,1062
+Eastern,Sironko,Buwasa,68,910,978,52,701,753
+Eastern,Sironko,Buyobo,106,1352,1458,87,982,1069
+Eastern,Sironko,Masaba,67,953,1020,56,711,767
+Eastern,Sironko,Nalusala,83,940,1023,67,716,783
+Eastern,Sironko,Sironko Town Council,138,1831,1969,91,1376,1467
+Eastern,Sironko,Zesui,126,1087,1213,83,805,888
+Eastern,Sironko,Sironko Total,1783,24933,26716,1455,18544,19999
+Eastern,Soroti,Eastern Division,110,1869,1979,153,1382,1535
+Eastern,Soroti,Northern Division,100,1711,1811,150,1229,1379
+Eastern,Soroti,Western Division,30,1186,1216,75,872,947
+Eastern,Soroti,Tubur,126,2375,2501,193,1647,1840
+Eastern,Soroti,Kamuda,319,3806,4125,302,2643,2945
+Eastern,Soroti,Asuret,280,4004,4284,237,2831,3068
+Eastern,Soroti,Katine,332,3480,3812,305,2469,2774
+Eastern,Soroti,Soroti,156,2601,2757,228,1829,2057
+Eastern,Soroti,Arapai,354,4108,4462,363,2903,3266
+Eastern,Soroti,Gweri,209,5050,5259,221,3624,3845
+Eastern,Soroti,Soroti Total,2016,30190,32206,2227,21429,23656
+Eastern,Tororo,Kwapa,88,2302,2390,1682,84,1766
+Eastern,Tororo,Malaba Town Council,146,1682,1828,1284,90,1374
+Eastern,Tororo,Mella,107,2147,2254,1505,108,1613
+Eastern,Tororo,Merikit,261,2539,2800,1845,149,1994
+Eastern,Tororo,Molo,170,2017,2187,1464,129,1593
+Eastern,Tororo,Mukuju,334,4080,4414,2843,333,3176
+Eastern,Tororo,Osukuru,320,4782,5102,3365,364,3729
+Eastern,Tororo,Iyolwa,179,2162,2341,1560,147,1707
+Eastern,Tororo,Kirewa,360,2797,3157,1998,236,2234
+Eastern,Tororo,Kisoko,120,2007,2127,1394,118,1512
+Eastern,Tororo,Magola,152,1866,2018,1360,115,1475
+Eastern,Tororo,Mulanda,315,4022,4337,2850,257,3107
+Eastern,Tororo,Nabuyoga,441,3005,3446,2149,266,2415
+Eastern,Tororo,Nagongera,375,2518,2893,1753,372,2125
+Eastern,Tororo,Nagongera Town Council,91,1283,1374,916,101,1017
+Eastern,Tororo,Paya,307,2825,3132,1971,265,2236
+Eastern,Tororo,Petta,147,1619,1766,1006,244,1250
+Eastern,Tororo,Rubongi,260,3937,4197,2848,272,3120
+Eastern,Tororo,Sop-Sop,134,1449,1583,996,119,1115
+Eastern,Tororo,Eastern Division,89,2087,2176,1501,145,1646
+Eastern,Tororo,Western Division,155,2415,2570,1824,134,1958
+Eastern,Tororo,Tororo Total,4551,53541,58092,38114,4048,42162
